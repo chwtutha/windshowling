@@ -1,0 +1,14 @@
+<!--<p style="text-align: center;">
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-width: 100%;">
+</p>-->
+
+{{ if .Title }}
+  <figure style="text-align: center; margin: 2rem auto;">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-width: 100%;">
+    <figcaption>{{ .Title }}</figcaption>
+  </figure>
+{{ else }}
+  <p style="text-align: center;">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-width: 100%;">
+  </p>
+{{ end }}

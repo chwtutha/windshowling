@@ -1,0 +1,1161 @@
++++
+title = 'Everything that happened in 2025'
+date = 2026-01-23T16:23:24-05:00
+type = "blog"
+tags = ["history","news-logs"]
++++
+In 2025, I kept a daily log of snippets from the news. Below is the result: more than 500 total entries, a mixture of U.S. news, global events and a few items of local or personal interest.
+
+It's not a comprehensive list of everything that happened. It's more like a personal log of events that I thought were important enough to write down. Here's what I saw happening in the news, in the order that it happened.
+
+!['A word cloud of my 2025 news log.'](/everything-2025/2025-word-cloud.jpg)
+
+01-01 AP: A U.S. Army veteran driving a pickup truck that bore the flag of the Islamic State group wrought carnage on New Orleans’ raucous New Year’s celebration, killing 15 people as he steered around a police blockade and slammed into revelers before being shot dead by police.
+
+01-06 BBC: Under growing pressure from his own party, Canadian Prime Minister Justin Trudeau has announced he will step down and end his nine-year stretch as leader.
+
+01-07 AP: President-elect Donald Trump told residents of Greenland that “we’re going to treat you well” as his oldest son visited the mineral-rich Danish territory that’s home to a large U.S. military base, heightening speculation that the incoming U.S. administration could seek to acquire it. The president-elect later told a news conference he wouldn’t rule out using military force or economic coercion to take control of Greenland, saying that “we need it for national security.”
+
+01-15 NPR: Israel and Hamas have reached an agreement on a multiphase ceasefire that commits them to end the war in Gaza, President Biden and Qatar's prime minister announced separately on Wednesday.
+
+01-15 NBC: Nicotine levels in cigarettes sold in the U.S. would have to be drastically lowered under a proposal released Wednesday by the Food and Drug Administration. If finalized, the change would mean that cigarettes would lose their ability to hook most people into addiction.
+
+01-15 AP: U.S. regulators on Wednesday banned the dye called Red 3 from the nation’s food supply, nearly 35 years after it was barred from cosmetics because of potential cancer risk.
+
+<!--more-->
+
+01-15 CNN: Farewell speech: President Joe Biden warned against threats of unchecked power and “tech industrial complex” in a farewell address from the Oval Office tonight. He also hailed his administration’s accomplishments. “It will take time to feel the full impact of what we’ve done together,” he said.
+
+01-20 NYT: Donald John Trump completed an extraordinary return to power on Monday as he was sworn in as the 47th president of the United States and promised an immediate blitz of actions to begin drastically changing the course of the country and usher in a new “golden age of America.”
+
+01-21 Guardian: Donald Trump’s much-vaunted but ill-defined new “Department of Government Efficiency” (Doge) program lost one of its leaders hours after the new president took office on Monday, as Vivek Ramaswamy bowed out of the government cost-cutting taskforce, leaving Elon Musk in sole charge.
+
+01-26 BBC: The CIA on Saturday offered a new assessment on the origin of the Covid outbreak, saying the coronavirus is "more likely" to have leaked from a Chinese lab than to have come from animals. But the intelligence agency cautioned it had "low confidence" in this determination.
+
+01-29 CNBC: There were no survivors after an American Airlines regional jet with 64 people aboard collided with a Black Hawk military helicopter moments before the airplane was set to land at Washington, D.C.'s Ronald Reagan Washington National Airport on Wednesday night, officials said. The accident was the worst air disaster in the U.S. since 2001.
+
+01-29 CNN: Federal workers who don’t want to return to the office are being offered buyouts, according to a memo posted to the US Office of Personnel Management’s website Tuesday night. The subject line of the email to federal employees was “Fork in the Road,” the same subject line of an ultimatum message Elon Musk sent to his employees at Twitter in 2022.
+
+02-04 Reuters: President Donald Trump said the U.S. would take over the war-ravaged Gaza Strip and develop it economically after Palestinians are resettled elsewhere, actions that would shatter decades of U.S. policy toward the Israeli-Palestinian conflict. Trump unveiled his surprise plan, without providing specifics, at a joint press conference on Tuesday with visiting Israeli Prime Minister Benjamin Netanyahu.02-11 NPR: President Trump and Elon Musk appeared together from the Oval Office on Tuesday, where they defended their efforts to enact sweeping changes to the federal government and limit spending.
+
+02-11 Musk, dressed in all-black MAGA hat, holds his four-year-old son X Æ A-Xii in the Oval Office during a press conference with Trump about DOGE.
+
+!['Elon Musk holds his four-year-old son in the Oval Office.'](/everything-2025/musk-holds-son-oval-office.jpg)
+
+03-16 ABC: The United States airstrikes that bombarded Yemen over the weekend targeted and "took out" multiple leaders of the Iranian-backed Houthis, White House national security adviser Mike Waltz said Sunday.
+
+03-16 CNN: As President Donald Trump works to dramatically reshape the federal government, he is also in the middle of transforming another historic aspect of the presidency: the Oval Office. Nearly eight weeks since returning to office, Trump has tripled the number of paintings hanging on the office walls. Shelves and surfaces are adorned with flags, statues and ornaments. And in keeping with the style he has adhered to for decades, there is gold everywhere: new gold vermeil figurines on the mantle and medallions on the fireplace, gold eagles on the side tables, gilded Rococo mirrors on the doors, and, nestled in the pediments above the doorways, diminutive gold cherubs shipped in from Mar-a-Lago. Even the remote control for the television down the hall is wrapped in gilt.
+
+03-19 NBC: Israel shattered its ceasefire with Hamas by launching a barrage of deadly airstrikes overnight Tuesday that killed hundreds of Palestinians across the Gaza Strip — and Israeli Prime Minister Benjamin Netanyahu has vowed that “this is just the beginning.”
+
+03-24 AP: Greenland’s people are bracing for another visit from U.S. President Donald Trump’s inner circle, with second lady Usha Vance set to travel to the autonomous Danish territory this week as her husband ratchets up talk about U.S. security and “territorial” interests in the vast Arctic island coveted by the administration.
+
+03-24 “The Trump Administration Accidentally Texted Me Its War Plans”: The Atlantic’s Jeffrey Goldberg reveals that he was somehow invited by National Security Advisor Mike Waltz to join a Signal group chat where top Trump officials discussed details of plans to bomb Houthis in Yemen.
+
+03-25 AP: Speaking to reporters traveling with him as he landed in Hawaii for his first trip to the Indo-Pacific as defense secretary, Pete Hegseth said "nobody was texting war plans and that's all I have to say about that." Instead, Hegseth tried to discredit The Atlantic Editor-in-Chief Jeffrey Goldberg — who was added to the Signal chat by National Security Adviser Mike Waltz and reported on the texts — as "peddling garbage." The National Security Council has said the text chain in Signal "appears to be authentic.
+
+03-26 Jeffrey Goldberg posts screenshots of Signal chat proving that war plans were openly discussed.
+
+!['A screenshot of a Signal chat where Trump officials discussed war plans.'](/everything-2025/jeffrey-goldberg-atlantic-hegseth-signal-message-leak.jpg)
+
+04-01 Reuters: Tesla cars, infrastructures and offices have become targets of vandalism in several countries in response to CEO Elon Musk's right-wing activism.
+
+04-02 AP: Musk and his affiliated groups sunk $21 million into flipping the Wisconsin Supreme Court to conservative control, only to see his candidate defeated by 10 percentage points on Tuesday. The losing margin was four points larger than that of the only other Republican on the same statewide ballot, who was not tied to Musk’s money. The race was the first major test of the political impact of Musk.
+
+04-02 ABC: President Donald Trump on Wednesday unveiled a long-promised, sweeping set of baseline tariffs on all trading partners and what he described as "kind reciprocal" tariffs on nations he claimed were the worst offenders in trade relations with the U.S. "My fellow Americans, this is Liberation Day," Trump said from the White House Rose Garden, claiming the action will free the U.S. from dependence on foreign goods. "April 2, 2025, will forever be remembered as the day American industry was reborn, the day America's destiny was reclaimed and the day that we began to make America wealthy again," he said.
+
+04-04 NPR: Wall Street plummeted for a second straight day on Friday, as President Trump's tariffs escalated a global trade war and wiped out trillions of dollars in value from the U.S. stock market. The two-day selloff served as the financial community's most brutal warning yet about the potential fallout of Trump's trade policy. Investors, businesses, and consumers are all expressing mounting terror about how these sweeping new taxes could upend the global economy.
+
+04-09 CNN: President Donald Trump announced a complete three-month pause on all the “reciprocal” tariffs that went into effect at midnight, with the exception of China, a stunning reversal from a president who had insisted historically high tariffs were here to stay.
+
+04-10 NPR: U.S. stocks slumped on Thursday, giving up a chunk of the spectacular gains seen in the previous session, as some of the relief after President Trump paused many of his tariffs started to dissipate.
+
+04-21 Second Signal chat reported. NBC: “Defense Secretary Pete Hegseth used his personal phone to send information about U.S. military operations in Yemen to a 13-person Signal group chat, including his wife and his brother, two sources with knowledge of the matter confirmed to NBC News.”
+
+04-24 NPR: Tensions between South Asia's two nuclear-armed powers ratcheted up Thursday after India's Prime Minister Narendra Modi vowed to pursue "to the ends of the earth" those behind a militant attack on Tuesday … in which gunmen ambushed tourists in a scenic meadow in Pahalgam and killed 26 men, mostly Hindus. Eyewitnesses told Indian media that in some cases, the gunmen asked their victims if they were Muslims before killing them.
+
+04-28 Politico: Mark Carney led Canada’s Liberal Party to victory Monday after a polarized and historic election dominated by President Donald Trump’s tariffs and trade policy. The rookie politician cemented the Liberals’ fourth-straight term in government, a rare feat in Canadian politics — while holding back the Conservative Party led by Pierre Poilievre, who lost his seat in the House.
+
+05-02 NYT: Stocks on Friday erased losses suffered in the days after President Trump’s chaotic rollout of tariffs in early April, bolstered in part by a healthy report on the labor market.
+
+05-06 Guardian: The US will halt its bombing campaign against Yemen’s Houthis after the Iran-aligned group agreed to stop targeting shipping in the Red Sea. “The Houthis have announced … that they don’t want to fight any more. They just don’t want to fight. And we will honor that, and we will stop the bombings, and they have capitulated,” Trump said. He provided minimal details of the agreement and denied that he had struck a deal.
+
+05-08 New pope elected: Leo XIV. Political narrative immediately forms. Past anti-Trump retweets dug up; Twitter full of repetitive “woke pope,” “American pope,” “Chicago pope” jokes
+
+05-13 Axios: Joe Biden's physical deterioration was so severe in 2023 and 2024 that advisers privately discussed the possibility he'd need to use a wheelchair if he won re-election, CNN's Jake Tapper and Axios' Alex Thompson write in their new book, "Original Sin," out May 20.
+
+05-13 Trump to get ‘Palace in the Sky’ jet from Qatar and use it as Air Force One?
+
+05-14 Trial of Sean “Diddy” Combs begins
+
+05-16 CNN: Elon Musk’s artificial intelligence company on Friday said a “rogue employee” was behind its chatbot’s unsolicited rants about “white genocide” in South Africa earlier this week. The clarification comes less than 48 hours after Grok — the chatbot from Musk’s xAI that is available through his social media platform, X — began bombarding users with unfounded genocidal theories in response to queries about completely off-topic subjects.
+
+05-18 CBS: Two people died and more than a dozen were hurt when a Mexican navy training ship hit the Brooklyn Bridge.
+
+!['A Mexican navy training ship hits the Brooklyn Bridge.'](/everything-2025/mexican-navy-ship-hits-brooklyn-bridge.jpg)
+
+05-19 CNN: Former President Joe Biden was diagnosed with an “aggressive form” of prostate cancer, according to a statement from his personal office Sunday, and it has spread to his bones.
+
+05-21 Democrat Rep. Gerry Connolly dead—third Democrat death this session and eighth Democratic congressional death in a row.
+
+05-21 Pentagon accepts Qatari jet.
+
+05-22 AP: “Turn the lights down,” President Donald Trump said. It was showtime in the Oval Office. Sitting next to him was South African President Cyril Ramaphosa, who was visiting in hopes of reaching new agreements on trade. But Trump wanted to talk about baseless allegations that white farmers in his country were being systematically singled out for persecution and murder.
+
+05-22 Two staff members of the Israeli Embassy in Washington were shot and killed while leaving an event at a Jewish museum, and the suspect yelled, “Free, free Palestine,” after he was arrested.
+
+05-22 “Big, Beautiful Bill” passes House.
+
+05-23 Reuters: Buyers of President Donald Trump’s meme coin are converging from around the globe on Thursday for an exclusive dinner at his private country club, overlooking the Potomac River, just outside the nation’s capital. These top holders will enjoy a private VIP reception with Trump, and the four largest investors will also receive a limited edition Trump Tourbillon watch that sells for $100,000.”
+
+05-28 Stimson: Following a terrorist attack on April 22, India launched punitive strikes on Pakistan on May 7. This began a four-day conflict between India and Pakistan from May 7-10, which became the most serious military crisis in decades between the two rival nuclear states. Both sides have declared victory amid considerable misinformation and disinformation about what occurred.
+
+05-29 FBI leaders say jail video shows Jeffrey Epstein died by suicide; Kash Patel and Dan Bongino promise to release a surveillance video showing no one entered the cell before he was found dead.
+
+05-30 NYT: As Elon Musk became one of Donald J. Trump’s closest allies last year, leading raucous rallies and donating about $275 million to help him win the presidency, he was also using drugs far more intensely than previously known, according to people familiar with his activities. He told people he was taking so much ketamine, a powerful anesthetic, that it was affecting his bladder, a known effect of chronic use. He took Ecstasy and psychedelic mushrooms. And he traveled with a daily medication box that held about 20 pills, including ones with the markings of the stimulant Adderall.
+
+06-03 Reuters: Billionaire Elon Musk plunged on Tuesday into the congressional debate over President Donald Trump's sweeping tax and spending bill, calling it a "disgusting abomination" that will increase the federal deficit.
+
+06-03 AP: A surprise Ukrainian drone attack that targeted several Russian air bases hosting nuclear-capable strategic bombers was unprecedented in its scope and sophistication and for the first time reached as far as Siberia in a heavy blow to the Russian military. Ukraine said over 40 bombers, or about a third of Russia’s strategic bomber fleet, were damaged or destroyed Sunday, although Moscow said only several planes were struck.
+
+06-05 ABC: A war of words between Elon Musk and President Donald Trump erupted into a full meltdown Thursday. As the exchanges grew progressively personal, Musk posted, without providing evidence, about Trump and Jeffrey Epstein, accused of sex trafficking of minors in 2019, "Time to drop the really big bomb: @realDonaldTrump is in the Epstein files. That is the real reason they have not been made public. Have a nice day, DJT!"
+
+06-05 AP: President Donald Trump on Thursday threatened to cut Elon Musk's government contracts. "The easiest way to save money in our Budget, Billions and Billions of Dollars, is to terminate Elon's Governmental Subsidies and Contracts," Trump wrote on his social media network. "I was always surprised that Biden didn't do it!" "This just gets better and better," Musk quickly replied on X. "Go ahead, make my day."
+
+06-07 BBC: US President Donald Trump has said his relationship with Elon Musk is over. "I would assume so, yeah," Trump told NBC News on Saturday, when asked if he thought the pair's close relationship had ended. He replied "No" when asked if he wished to mend the damaged ties.
+
+06-09 NPR: President Trump announced Saturday that 2,000 California National Guard troops would be sent to Los Angeles in response to immigration protests. California Gov. Gavin Newsom criticized the deployment as unnecessary and "inflaming tensions." Trump's move marks the first time since the 1960s that the federal government has activated National Guard troops without a governor's consent, a significant break from long-standing protocol.
+
+06-11 LA situation continues; curfew enforced; Newsom makes national TV address; Trump to target other cities?
+
+06-11 Musk on X: “I regret some of my posts about President @realDonaldTrump last week. They went too far.”
+
+06-11 Feud between small-time YouTubers resulted in shooting outside Bellagio fountain recently, killing 2.
+
+06-11 Guardian: Trump's decision to dispatch troops to Los Angeles over the objections of California Governor Gavin Newsom has sparked a national debate about the use of the military on U.S. soil. Newsom's administration has sued the U.S. government to stop the deployment.
+
+06-11 Iran war fears: Personnel withdrawn from Middle East embassies, military congressional hearing cancelled; rumors of Israeli strike on Iran nukes. Trump on Truth Social: “I am more confident than ever that in the days ahead and every generation to come, the U.S. Army will heap glory upon glory. You will summon inexhaustible courage. You will protect every inch of U.S. soil—and you will defend America to the ends of the earth!"
+
+06-11 Israel is poised to launch operation on Iran, multiple sources tell CBS News.
+
+06-12 At least 290 dead after Air India crash, including people on the ground where it hit. 1 survivor from plane; ‘Miracle in seat 11A’
+
+06-12 Video of Sen. Alex Padilla being handcuffed after asking DHS Sec Kristi Noem a question during press conference. Some debate about the events leading up to it.
+
+06-12 Israel has launched what it called “preemptive strikes” against Iran and a state of emergency has been declared in Israel, according to the country’s Defense Minister Israel Katz. “Following the State of Israel’s preemptive strike against Iran, a missile and drone attack against the State of Israel and its civilian population is expected in the immediate future,” Katz said in a statement. Iranian state media outlet IRNA reported repeated explosions could be heard in Tehran.
+
+06-12 Benjamin Netanyahu, the Israeli prime minister, just issued his first statement since the Israeli attack on Iran. Netanyahu said that Israel had attacked Iran’s main nuclear “enrichment facility in Natanz,” as well as “Iran’s leading nuclear scientists.” He accused Iran of advancing its nuclear program, calling it “a clear and present danger to Israel’s very survival.”
+
+06-13 Ex-NFL star Antonio Brown sought on attempted murder charge.
+
+06-13 "All of Israel is under fire" from Iranian projectiles, IDF says; direct hits in Tel Aviv; some killed and dozens wounded.
+
+06-14 One Minnesota lawmaker and her spouse were fatally shot and a second lawmaker and his spouse were injured in separate "politically motivated" shootings at their homes in eastern Minnesota, officials said Saturday. The suspect, who authorities said had impersonated law enforcement and wore a badge to gain access to the legislators' homes, remained at large and is believed to be on foot as a large-scale search was ongoing.
+
+06-14 Trump/Army military parade goes off uneventfully. Forecasted rain did not materialize. Feels like it got a bit drowned out by surrounding events.
+
+06-15 Israel and Iran traded missile strikes on Sunday, as the conflict between the countries raged for a third day. Israeli authorities said at least eight people were killed and more than 140 injured in the strikes overnight, including four people killed in a missile strike on a suburb of Tel Aviv and another four in a strike in the north of the country.
+
+06-15 NYT: Officials said that the night of Israel’s attack, senior military commanders did not shelter in safe houses and instead stayed in their own homes, a fateful decision. … Israel had taken out much of Iran’s defense capability, destroying radars and air defenses; crippled its access to its arsenal of ballistic missiles; and wiped out senior figures in the military chain of command. In addition, the aboveground part of a major nuclear enrichment plant at Natanz was severely damaged.
+
+06-15 CBS: Demonstrators crowded into streets, parks and plazas across the U.S. on Saturday to protest President Trump, marching through downtowns and blaring anti-authoritarian chants mixed with support for protecting democracy and immigrant rights. Organizers of the "No Kings" demonstrations said millions had marched in hundreds of events. Governors across the U.S. had urged calm and vowed no tolerance for violence, while some mobilized the National Guard ahead of marchers gathering. Confrontations were isolated.
+
+06-16 CNN: Vance Boelter, the suspect in the shootings of two Minnesota lawmakers and their spouses, was arrested on Sunday. A local police chief described the chase to capture Boelter as the “largest manhunt in the state’s history.”
+
+06-16 Economic Times: Israel has demonstrated tactical audacity by mounting bold attacks on Iran, but it may have misjudged Iran's depth, durability and capacity for calibrated retaliation. This has placed the region on a knife's edge as the conflict risks sliding into full-scale war, eventually drawing in the US as well as other actors.
+
+06-16 The Verge: Trump Mobile is launching with a single plan called “The 47 Plan” for $47.45 per month, which it says offers the same coverage as the big three carriers. It will work with existing phones, but if you prefer, the company will also sell a $499 T1 Phone in a gold finish.”
+
+06-16 NYT: President Trump has decided not to sign onto a statement calling for de-escalation between Iran and Israel that is being prepared by the Group of 7 industrialized nations, according to a White House official, the first evidence of an ongoing rift between Mr. Trump and his fellow leaders gathered for a summit in Alberta, Canada.
+
+06-17 Trump suggests involvement in Iran war with use of ‘we’: “We now have complete and total control of the skies over Iran. Iran had good sky trackers and other defensive equipment, and plenty of it, but it doesn’t compare to American made, conceived, and manufactured “stuff.” Nobody does it better than the good ol’ USA.” Later: “We know exactly where the so-called ""Supreme Leader"" is hiding. He is an easy target, but is safe there - We are not going to take him out (kill!), at least not for now. But we don't want missiles shot at civilians, or American soldiers. Our patience is wearing thin. Thank you for your attention to this matter!”"
+
+06-17 NYT: Iran has prepared missiles and other military equipment for strikes on U.S. bases in the Middle East should the United States join Israel’s war against the country, according to American officials who have reviewed intelligence reports.
+
+06-18 WSJ: Israel is running low on defensive Arrow interceptors, according to a U.S. official, raising concern about the country’s ability to counter long-range ballistic missiles from Iran if the conflict isn’t resolved soon.
+
+06-18 Al Jazeera: Indian Prime Minister Narendra Modi has made it clear to United States President Donald Trump that a ceasefire between India and Pakistan after a four-day conflict in May was achieved through talks between the two militaries and not US mediation, a top diplomat in New Delhi says. Trump had said last month that the nuclear-armed South Asian neighbours agreed to the ceasefire after talks mediated by the US, and that the hostilities ended after he urged the countries to focus on trade instead of war.
+
+06-18 NBC: National Intelligence Director Tulsi Gabbard, an outspoken critic of past U.S. military interventions abroad, appears to have fallen out of favor with President Donald Trump as he weighs military action against Iran, according to multiple senior administration officials with knowledge of the matter. Gabbard’s politically perilous position burst into the open this week when Trump brushed her back over her testimony to Congress in March. At that time, she said the U.S. intelligence community did not believe Iran was building a nuclear weapon — a comment at odds with Trump’s recent public statement about the threat posed by Iran’s potential nuclear program. “I don’t care what she said. I think they were very close to having one,” Trump told reporters Tuesday on Air Force One.
+
+06-18 “We came to the conclusion we could not affirm there is any systematic effort in Iran at the moment to manufacture a nuclear weapon," says Rafael Grossi, director general of the International Atomic Energy Agency (IAEA).
+
+06-19 WSJ: “President Trump told senior aides late Tuesday that he approved of attack plans for Iran, but was holding off on giving the final order to see if Tehran will abandon its nuclear program, three people familiar with the deliberations said. Trump is hoping that threatening to join Israel’s strikes on Iran, which continued for a sixth day, will compel Tehran to meet his demands, the people said. He acknowledged that a U.S. attack was under consideration but said he still may decide against it.”
+
+06-19 Senior U.S. officials are preparing for the possibility of a strike on Iran in the coming days, Bloomberg News reported on Wednesday, citing people familiar with the matter. … Some of the people, according to Bloomberg, pointed to potential plans for a weekend strike. Speaking to reporters earlier on Wednesday outside the White House, Trump declined to say if he had made any decision on whether to join Israel's campaign. "I may do it. I may not do it. I mean, nobody knows what I'm going to do," he said.
+
+06-19 Trump will make a decision on whether the U.S. should get involved in the conflict between Israel and Iran within the next two weeks, White House press secretary Karoline Leavitt told reporters. Leavitt read aloud a message from Trump from the podium that said: "Based on the fact that there's a substantial chance of negotiations that may or may not take place with Iran in the near future, I will make my decision whether or not to go within the next two weeks."
+
+06-21 Atlantic predicts Trump will keep waffling on Iran: “Trump seems to recognize that he cannot unify the nation and therefore dares not lead it into any arduous or hazardous undertaking. That may be the secret self-awareness behind Trump’s “two weeks” hesitation. This is not a self-awareness that will help Israel or secure the United States’ long-term interest in depriving Iran of a nuclear weapon. But in the absence of any strategic planning or preparedness, that self-awareness is all we have to guide the country through the next fortnight and, very possibly, a long succession of “two weeks” after that.”
+
+06-21 Trump: “We have completed our very successful attack on the three Nuclear sites in Iran, including Fordow, Natanz, and Esfahan. All planes are now outside of Iran air space. A full payload of BOMBS was dropped on the primary site, Fordow. All planes are safely on their way home. Congratulations to our great American Warriors. There is not another military in the World that could have done this. NOW IS THE TIME FOR PEACE! Thank you for your attention to this matter.”
+
+He continued: “Certain Iranian hardliner’s spoke bravely, but they didn’t know what was about to happen. They are all DEAD now, and it will only get worse! There has already been great death and destruction, but there is still time to make this slaughter, with the next already planned attacks being even more brutal, come to an end. Iran must make a deal, before there is nothing left, and save what was once known as the Iranian Empire. No more death, no more destruction, JUST DO IT, BEFORE IT IS TOO LATE. God Bless You All!”"
+
+06-21 Drudge: “IRAN NATIONAL GUARD: 'THE WAR HAS NOW BEGUN FOR US'... Iranian TV: Every American citizen or military member is a legitimate target...”
+
+06-21 Trump’s 10 p.m. address to nation: “I want to just thank everybody. And, in particular, God. I want to just say, we love you, God, and we love our great military. Protect them. God bless the Middle East. God bless Israel and God bless America. Thank you very much. Thank you.”
+
+06-22 NYP: Iran’s parliament has voted to close the Strait of Hormuz, the vital shipping channel through which around 20% of the world’s daily oil flows. The move, which could block $1 billion in oil shipments per day, is likely to send oil prices soaring. It will come into effect pending a final decision by Iran’s Supreme Council.
+
+06-22 CNN: Vice President JD Vance, in his first public comments since President Donald Trump authorized US strikes on Iranian nuclear sites, emphasized that the US is “not at war” with Iran as he laid out the president’s decision-making process. “We’re not at war with Iran. We’re at war with Iran’s nuclear program,” Vance said.
+
+06-22 NYT: After several Trump cabinet members stressed no interest in regime change in Iran this morning, the president sounded more intrigued in a Truth Social post on Sunday afternoon: “It’s not politically correct to use the term, ‘Regime Change,’ but if the current Iranian Regime is unable to MAKE IRAN GREAT AGAIN, why wouldn’t there be a Regime change??? MIGA!!!” he wrote.
+
+06-23 Independent: Satellite pictures taken after the US military attempted to destroy Iran’s nuclear facilities show significant damage to Tehran’s nuclear sites - but not necessarily to the extent claimed by Donald Trump. The images indicated damage on the ground - including new craters, holes on mountain ridges and collapsed tunnels - but did not provide definitive proof the heavily fortified underground facilities were breached.
+
+06-23 NYT: Iran fired missiles aimed at an American base in Qatar, the largest U.S. military installation in the Middle East, according to three Iranian officials with knowledge of the matter. Iran coordinated the attacks on the American air base in Qatar with Qatari officials and gave advanced notice that attacks were coming to minimize casualties, according to three Iranian officials familiar with the plans. Qatar said its air defenses had successfully intercepted the Iranian missiles.
+
+06-23 Trump: “Did I hear Former President Medvedev, from Russia, casually throwing around the "N word" (Nuclear!), and saying that he and other Countries would supply Nuclear Warheads to Iran? Did he really say that or, is it just a figment of my imagination? If he did say that, and, if confirmed, please let me know, IMMEDIATELY. The "N word" should not be treated so casually.”
+
+06-23 Trump: “I want to thank Iran for giving us early notice, which made it possible for no lives to be lost, and nobody to be injured. Perhaps Iran can now proceed to Peace and Harmony in the Region, and I will enthusiastically encourage Israel to do the same! … Congratulations world, it's time for peace.”
+
+06-23 Ian Bremmer: “iranian symbolic attack purely for domestic purposes…and accepted as such by president trump. biggest foreign policy win of his second administration to date. (and makes for a much better nato summit this week to boot)”
+
+06-23 Trump: “CONGRATULATIONS TO EVERYONE! It has been fully agreed by and between Israel and Iran that there will be a Complete and Total CEASEFIRE … On the assumption that everything works as it should, which it will, I would like to congratulate both Countries, Israel and Iran, on having the Stamina, Courage, and Intelligence to end, what should be called, “THE 12 DAY WAR.””
+
+06-24 Reuters: Israeli Defence Minister Israel Katz said on Tuesday he had ordered the military to strike Tehran in response to what he said were missiles fired by Iran in a violation of the ceasefire announced hours earlier by U.S. President Donald Trump. Iran denied violating the ceasefire. The armed forces general staff denied that there had been any launch of missiles towards Israel in recent hours, Iran's Nour News reported.
+
+06-24 Trump told reporters: "They don’t know what the f*** they’re doing. We have to have Israel to calm down because they went on a mission this morning.’ Minutes before facing the press, Trump typed out in anger on Truth Social: ‘ISRAEL. DO NOT DROP THOSE BOMBS. ‘IF YOU DO IT IS A MAJOR VIOLATION. BRING YOUR PILOTS HOME, NOW!’”
+
+06-24 CNN: “The US military strikes on three of Iran’s nuclear facilities last weekend did not destroy the core components of the country’s nuclear program and likely only set it back by months, according to an early US intelligence assessment that was described by three people briefed on it. White House press secretary Karoline Leavitt told CNN in a statement: “This alleged assessment is flat-out wrong and was classified as ‘top secret’ but was still leaked to CNN by an anonymous, low-level loser in the intelligence community.”
+
+06-25 NYT: Zohran Mamdani, a little-known state lawmaker whose progressive platform and campaign trail charisma electrified younger voters, stunned former Gov. Andrew M. Cuomo in the Democratic primary for mayor of New York City on Tuesday night, building a lead so commanding that Mr. Cuomo conceded.
+
+06-25 Guardian: Donald Trump and the US defense secretary, Pete Hegseth, have admitted to some doubt over the scale of the damage inflicted on Iran’s nuclear sites. “The intelligence was very inconclusive,” Trump told journalists at a Nato summit in The Hague, introducing an element of uncertainty for the first time after several days of emphatic declarations that the destruction had been total. “The intelligence says we don’t know. It could’ve been very severe. That’s what the intelligence suggests.”
+
+06-26 WaPo: The White House plans to limit classified intelligence sharing with Congress after leaks to the press of an early assessment undermined President Donald Trump’s claim that U.S. airstrikes obliterated Iranian nuclear facilities, a senior Trump administration official said, setting the stage for a contentious classified briefing before senators Thursday. Director of National Intelligence Tulsi Gabbard, who testified in March that U.S. intelligence agencies assessed that Iran was not building a nuclear weapon, will be notably absent.
+
+06-26 FT: “Preliminary intelligence assessments provided to European governments indicate that Iran’s highly enriched uranium stockpile remains largely intact following US strikes on its main nuclear sites, two officials have said. … It had been distributed to various other locations, the assessments found.”
+
+06-26 Regarding Iran’s uranium: Hegseth: "I'm not aware of any intelligence that I've reviewed that says things were not where they were supposed to be, moved or otherwise." Trump: “The cars and small trucks at the site were those of concrete workers trying to cover up the top of the shafts. Nothing was taken out of (the) facility.”"
+
+06-27 Jeff Bezos’ Venice superwedding happening now
+
+06-27 Daily Mail: The Supreme Court on Friday ruled that individual judges lack the power to issue nationwide injunctions as it delivered a historic ruling in a case about the right to birthright citizenship. It was a landmark decision that was seen as a major victory for President Donald Trump in his ongoing battle with the judiciary.
+
+06-28 AP: The Senate is expected to grind through a rare weekend session as Republicans race to pass President Donald Trump’s package of tax breaks and spending cuts by his July Fourth deadline.
+
+06-28 Guardian: A critical US atmospheric data collection program will be halted by Monday, giving weather forecasters just days to prepare, according to a public notice sent this week. Scientists that the Guardian spoke with say the change could set hurricane forecasting back “decades”, just as this year’s season ramps up.
+
+06-29 CNBC: Elon Musk ripped into the Senate’s massive domestic policy package on Saturday, calling it “utterly insane and destructive,” pointing to provisions in the bill that would raise taxes on many solar, battery, geothermal, wind and nuclear energy projects. “It gives handouts to industries of the past while severely damaging industries of the future,” he continued, hours before the Senate was poised to hold a key vote on the package.
+
+06-29 NYT: Russia pounded Ukraine overnight with hundreds of drones and missiles, the Ukrainian authorities said on Sunday, in one of the war’s largest assaults. Strikes on infrastructure were reported across the country, including in western Ukraine, which Russia hits less frequently. The attack was the latest in a series of escalating Russian air assaults, with Moscow repeatedly setting new marks for the number of weapons used.
+
+06-29 WaPo: The United States obtained intercepted communication between senior Iranian officials discussing this month’s U.S. military strikes on Iran’s nuclear program and remarking that the attack was less devastating than they had expected, said four people familiar with the classified intelligence circulating within the U.S. government.
+
+06-30 Couer d’Alene: Hours after two firefighters were ambushed and fatally shot while responding to a blaze on Canfield Mountain, authorities announced that the suspected shooter was found dead on the burning mountain. The suspect is believed to have intentionally set a fire on Canfield Mountain on Sunday afternoon, and then firing upon firefighters with at least a semi-automatic weapon.
+
+06-30 No significant Israel/Iran news now. Everything focused on the Big Beautiful Bill, but mostly how hard everyone’s working on it—-less clear what’s in it.
+
+07-01 Trump: “Elon may get more subsidy than any human being in history, by far, and without subsidies, Elon would probably have to close up shop and head back home to South Africa. No more Rocket launches, Satellites, or Electric Car Production, and our Country would save a FORTUNE. Perhaps we should have DOGE take a good, hard, look at this? BIG MONEY TO BE SAVED!!!”
+
+07-01 NYT: A divided Senate on Tuesday narrowly passed Republicans’ marquee bill to slash taxes and social safety net programs, as the G.O.P. muscled through deep internal rifts in a bid to deliver President Trump’s agenda. The 51-to-50 vote sent the legislation to the House, where its passage was far from certain even though Mr. Trump has demanded that lawmakers send the bill to his desk for enactment by July 4. Three Republicans … joined all Democrats in voting against it, forcing Vice President JD Vance to cast the tiebreaking vote.
+
+07-01 CNN: The judge in Sean “Diddy” Combs’ federal criminal trial has asked jurors to continue deliberating after they said they are unable to reach a verdict on one of the five counts. The jury sent a note to the judge saying they have reached a verdict on the counts of sex trafficking and transportation to engage in prostitution, but they are unable to reach a verdict on the racketeering conspiracy count. In their note to the judge, the jurors wrote, “We have jurors with unpersuadable opinions on both sides.”
+
+07-02 NYT: Paramount said late Tuesday that it has agreed to pay President Trump $16 million to settle his lawsuit over the editing of an interview on the CBS News program “60 Minutes,” an extraordinary concession to a sitting president by a major media organization. Many lawyers had dismissed Mr. Trump’s lawsuit as baseless and believed that CBS would have ultimately prevailed in court, in part because the network did not report anything factually inaccurate, and the First Amendment gives publishers wide leeway to determine how to present information. But Shari Redstone, the chair and controlling shareholder of Paramount, told her board that she favored exploring a settlement with Mr. Trump. Some executives at the company viewed the president’s lawsuit as a potential hurdle to completing a multibillion-dollar sale of the company to the Hollywood studio Skydance, which requires the Trump administration’s approval.
+
+07-02 NYP: Hip-hop icon Sean Combs was stunningly acquitted Wednesday on federal charges of forcing his former lovers to live out his degrading sexual fantasies — but found guilty of lesser prostitution raps. Combs, better known by his stage name Diddy, dodged charges that carried a possible life sentence after a two-month trial that revealed twisted details about the mogul, including his preference for “freak-offs” — watching his girlfriends have grueling, drug-fueled sex romps with male escorts.
+
+07-03 Hill: House Republicans passed the core of Trump’s domestic policy agenda Thursday afternoon — including sweeping tax cuts, a crackdown on immigration, a boost in energy production and huge cuts to Medicaid — overcoming months of bitter infighting on Capitol Hill to deliver what could be the defining legislation of Trump’s second term.
+
+07-04 WaPo: The tax and spending bill passed by Congress on Thursday will triple federal funding for immigrant detention centers, setting the stage for a rapid expansion of these facilities and adding to concerns about the treatment of the growing numbers of immigrant detainees. This is the most “funding we have seen for a border immigration agenda in the history of the country,” said Lauren-Brooke Eisen, who researches criminal justice and incarceration in her role as a senior director at the Brennan Center for Justice at New York University’s School of Law. “We are seeing a wholesale expansion of ICE detention centers.”
+
+07-04 US Sun: RUSSIA last night blitzed Ukraine with the heaviest air strikes since the beginning of the war - pounding capital Kyiv with 550 drones and 11 missiles. The overnight strikes came just moments after Donald Trump had a phone call with Vladimir Putin.
+
+07-05 AP: Crews searched through the dark early Saturday for two dozen children from a girls’ camp and many others who were still missing after a wall of water rushed down a river in the Texas Hill Country during a powerful storm that killed at least 24 people. The death toll was certain to rise.
+
+07-06 Reuters: The dispute between Republican President Donald Trump and his main campaign financier Elon Musk took another fractious turn on Saturday when the space and automotive billionaire announced the formation of a new political party, saying Trump's "big, beautiful" tax bill would bankrupt America. A day after asking his followers on his X platform whether a new U.S. political party should be created, Musk declared in a post on Saturday that "Today, the America Party is formed to give you back your freedom."
+
+07-06 Texas flood update: "The confirmed death toll climbed to at least 70 and forecasters warned that downpours would continue in areas already reeling. Eleven campers and one counselor from Camp Mystic, the girls’ summer camp in Kerr County, remained missing on Sunday, according to Larry Leitha, the county sheriff. The sheriff also said that 22 of those found dead had not yet been identified, including four children.”
+
+07-06 CNN: Dinosaurs are alive and well at the box office as Universal’s “Jurassic World Rebirth” trampled competitors, grossing $147 million domestically over five days of the Fourth of July weekend. The fourth installment of the “Jurassic World” series outperformed early estimates of nearly $80 million for the three days and $135 million for the five days.
+
+07-06 President Trump's Justice Department and FBI have concluded they have no evidence that convicted sex offender and disgraced financier Jeffrey Epstein blackmailed powerful figures, kept a "client list" or was murdered, according to a memo detailing the findings obtained by Axios. The findings represent the first time Trump's administration has officially contradicted conspiracy theories about Epstein's activities and his death — theories that had been pushed by the FBI's top two officials before Trump appointed them to the bureau.
+
+07-07 NYT: The deluge in Central Texas has become one of the deadliest floods in the United States in the past 100 years. As of Sunday evening, 80 people had died after the flooding began on the Fourth of July, with at least 41 people still missing, officials said.
+
+07-08 ABC: Nearly 20 years after airline passengers were first required to remove their shoes for security, the policy is being phased out. The Transportation Security Administration (TSA) is planning to allow passengers to keep their shoes on when they go through the general security line at many major airports across the country, two sources said.
+
+07-08 Politico: Trump last night overruled his skeptical Pentagon chiefs and restored U.S. weapons shipments to Kyiv in a dramatic shift of position on the Ukraine war. The president told White House reporters that the Ukrainian people “have to be able to defend themselves” after “getting hit very hard” by recent Russian onslaughts. “We’re going to send some more weapons — defensive weapons primarily,” Trump said.
+
+07-08 Bloomberg: President Donald Trump said his administration is weighing whether to take control of the city of Washington, DC, to help combat crime. “We could run DC. I mean, we’re looking at DC,” Trump said during a cabinet meeting Tuesday. “We’re thinking about doing it, to be honest with you. We want a capital that’s run flawlessly.”"
+
+07-08 CNN: Grok, the AI-powered chatbot created by Elon Musk’s xAI, has begun pushing antisemitic tropes in its responses to some users’ queries, weeks after Musk said he would rebuild the chatbot because he was unsatisfied with some of its replies that he viewed as too politically correct.
+
+07-09 X CEO Linda Yaccarino suddenly steps down after holding the position since Elon Musk bought Twitter in 2022.
+
+07-09 CNN: “Immigration and Customs Enforcement has already been acting with impunity during President Donald Trump’s second term. … The megabill Trump signed last week will elevate ICE in the American consciousness and on American streets.”
+
+07-11 FBI deputy director Dan Bongino took a day off from work Friday after clashing at the White House with Attorney General Pam Bondi over their handling of the Jeffrey Epstein files, four sources familiar with the conflict told Axios.
+
+07-12 BBC: A preliminary report into the Air India crash last month finds that both fuel control switches were moved to the cut-off position - a step that usually turns off the engines - moments before the plane crashed. A cockpit voice recording suggests confusion between the two pilots. One is heard asking his colleague why he "did the cut-off" - and the other pilot replies he did not do so, the report says.
+
+07-13 Epstein files drama continues. NBC: Trump pulled the rug out from his base Saturday evening when he released a lengthy social media post that completely dismissed the importance of the issue, which has consumed the right for the past week — and longer. “For years, it’s Epstein, over and over again,” Trump posted on Truth Social, blaming the files on Democrats. “Why are we giving publicity to Files written by Obama, Crooked Hillary, Comey, Brennan, and the Losers and Criminals of the Biden administration.”
+
+07-14 AP: Former New York Gov. Andrew Cuomo says he will campaign for mayor of New York City as an independent candidate, staying in a crowded field running against surging left-wing Democratic candidate Zohran Mamdani. In a video, Cuomo, who last month suffered a bruising loss to Mamdani in the Democratic primary, announced he was making another run to combat the progressive Mamdani, who he said “offers slick slogans but no real solutions.”
+
+07-14 AP: President Donald Trump on Monday threatened Russia with steep tariffs and announced a rejuvenated pipeline for American weapons to reach Ukraine, hardening his stance toward Moscow after months of frustration about unsuccessful negotiations for ending the war. Trump said he would implement “severe tariffs” unless a peace deal is reached within 50 days. He provided few details on how they would be implemented, but he described them as secondary tariffs, meaning they would target Russia’s trading partners in an effort to isolate Moscow in the global economy.
+
+07-15 Axios: House Republicans on Monday night voted against attaching a Democratic amendment to landmark cryptocurrency legislation that would force the Justice Department to release the Jeffrey Epstein files. It's the outcome Democrats anticipated, and one they plan to gleefully cite as President Trump continues to grapple with the MAGA fallout over the DOJ's handling of the documents.
+
+07-15 FBI Deputy Director Dan Bongino, who didn’t show up for work on Friday after a fight with Attorney General Pam Bondi and weighed resigning in protest of the administration’s handling of the Epstein case, spoke to President Donald Trump over the weekend. He subsequently returned to the office on Monday — though it remains unclear whether he will stay on at the FBI long term, two sources familiar with the situation told Semafor.
+
+07-15 Two stories on Trump’s health. First, CSPAN: "During a press availability with reporters before leaving the White House, cameras capture bruise marking on President Trump's right hand, which appears to be covered over with make-up. White House Press Secretary Karoline Leavitt recently attributed the bruise to the president shaking hands with many people on a regular basis." Also, The Mirror: "Photos of President Donald Trump at the FIFA Club World Cup on Sunday, revealing what seems to be his severely swollen ankles, have ignited fresh health concerns among social media users."
+
+!['Cameras capture a bruise marking on President Trump's right hand.'](/everything-2025/trump-makeup-hand-cspan.jpg)
+
+07-15 Wired: Newly uncovered metadata reveals that nearly three minutes of footage were cut from what the US Department of Justice and Federal Bureau of Investigation described as “full raw” surveillance video from the only functioning camera near Jeffrey Epstein’s prison cell the night before he was found dead.
+
+07-15 "Weather warfare" conspiracies have been a narrative lately, particularly with Texas floods. Orlando Sentinel: Florida airports soon must submit monthly reports on weather modification activities or face the loss of state funding under a controversial new law derided by critics as fueling conspiracy theories. Florida Attorney General James Uthmeier wrote to operators of public airports on Monday that their compliance is needed to “catch those who seek to weaponize science” and will safeguard the atmosphere from “harmful chemicals and experiments.”
+
+07-16 NPR: Israel on Wednesday conducted airstrikes in downtown Damascus, the Syrian capital. The strikes came amid ongoing tensions in southwest Syria, home to the minority Druze, whose community straddles the border between Israel-occupied Golan Heights and Syria. The Syrian military joined Bedouin militias in clashes against the Druze. Israel struck the Syrian military there on Monday and Tuesday in what they said was an effort to protect the Druze and keep the Syrian side of the border demilitarized.
+
+07-16 Al Jazeera: United States Secretary of Defense Pete Hegseth has ordered the withdrawal of 2,000 National Guard troops from Los Angeles, roughly half the federal troops deployed to the city, the Pentagon said. President Donald Trump ordered some 4,000 National Guard and 700 Marines into Los Angeles in early June to help enforce federal immigration raids amid widespread protests. According to Department of Homeland Security figures, cited by NBC Los Angeles, the raids have led to the arrest of 2,792 undocumented immigrants.
+
+07-16 Trump: “The Radical Left Democrats have hit pay dirt, again! … Their new SCAM is what we will forever call the Jeffrey Epstein Hoax, and my PAST supporters have bought into this "bullshit," hook, line, and sinker. They haven't learned their lesson, and probably never will, even after being conned by the Lunatic Left for 8 long years. … Let these weaklings continue forward and do the Democrats work, don't even think about talking of our incredible and unprecedented success, because I don't want their support anymore! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN!”
+
+07-16 AP: President Donald Trump said Wednesday that Coca-Cola has agreed to use real cane sugar in its flagship soft drink in the U.S. at his suggestion — though the company didn’t confirm such a move.
+
+07-17 NBC: Chris Martin, the lead singer of Coldplay, called out a couple who hid their faces after being caught on a kiss camera during a show on Wednesday, saying they looked like they were having an affair. Video of the moment, which was shared online, shows the pair appearing on screen. As they realize they're being broadcast to the entire stadium, the woman covers her face with her hands and the man ducks completely out of frame.
+
+!['The Coldplay kiss cam couple.'](/everything-2025/coldplay-kiss-cam.jpg)
+
+07-17 Scoop: WSJ publishes the contents of a 2003 letter to Epstein written by Trump for inclusion in a birthday album put together by Ghislaine Maxwell. "The letter bearing Trump’s name, which was reviewed by the Journal, is bawdy—like others in the album. It contains several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker. A pair of small arcs denotes the woman’s breasts, and the future president’s signature is a squiggly “Donald” below her waist, mimicking pubic hair. The letter concludes: “Happy Birthday — and may every day be another wonderful secret.” In an interview with the Journal on Tuesday evening, Trump denied writing the letter or drawing the picture. “This is not me. This is a fake thing. It’s a fake Wall Street Journal story,” he said. “I never wrote a picture in my life. I don’t draw pictures of women,” he said. “It’s not my language. It’s not my words.”"
+
+07-17 WaPo: The White House on Thursday said that President Donald Trump has been diagnosed with a mild but chronic illness related to his age — a rare admission from one of the nation’s oldest presidents who has long sought to project vigor. Trump has chronic venous insufficiency, the White House physician said in a memorandum, a condition in which the legs have trouble delivering blood back to the heart.
+
+07-17 Variety: "TV’s ongoing problems with late night have come for Stephen Colbert, with CBS announcing Thursday that it plans to end his “Late Show” after the next TV season, citing a “financial decision.”" (This was seen by many as an unspoken handout to Trump in line with the Paramount settlement, possibly to help enable its Skydance merger.)
+
+07-17 Politico: President Donald Trump said Thursday he would sue the Wall Street Journal and its owner over a new bombshell report about his relationship with Jeffrey Epstein and directed Attorney General Pam Bondi to begin the process of unsealing grand jury testimony in the disgraced financier’s criminal case. “Based on the ridiculous amount of publicity given to Jeffrey Epstein, I have asked Attorney General Pam Bondi to produce any and all pertinent Grand Jury testimony, subject to Court approval,” Trump said on social media, though it’s unclear that a judge would approve the request. “This SCAM, perpetuated by the Democrats, should end, right now!” That post came less than an hour after the president responded to a report in the Journal alleging he had sent a racy birthday letter to Epstein. Trump said he had personally warned the Journal’s owner, Rupert Murdoch, and its editor in chief, Emma Tucker, that the letter was “fake” before the report was published, calling the story “false, malicious, and defamatory.””
+
+07-17 Politico: Prominent figures in MAGA world rushed to Trump’s defense after the Journal published its story. “Forgive my language but this story is complete and utter bullshit,” Vice President JD Vance wrote on X. “The WSJ should be ashamed for publishing it.” “Where is this letter? Would you be shocked to learn they never showed it to us before publishing it? Does anyone honestly believe this sounds like Donald Trump?” Vance added. Even Elon Musk, whose relationship with the president has recently appeared to sour, said the letter “really doesn’t sound like something Trump would say” and “sounds bogus.”
+
+07-18 CNBC: FBI agents assigned earlier this year to review investigative files in the criminal case against notorious sex offender Jeffrey Epstein were instructed to “flag” any documents that mentioned President Donald Trump, Sen. Richard Durbin said Friday.
+
+07-18 Trump: “I absolutely love that Colbert got fired. His talent was even less than his ratings. I hear Jimmy Kimmel is next. Has even less talent than Colbert!”
+
+07-18 Trump on Friday filed suit against Rupert Murdoch, Dow Jones, the CEO of News Corp, Robert Thomson, and Khadeeja Safdar and Joseph Palazzolo, both reporters for the Wall Street Journal, accusing the group of committing defamation by publishing the article. The suit seeks at least $10 billion in damages.
+
+07-18 NYT: President Trump mounted a vigorous rebuttal on Thursday night to a report in The Wall Street Journal that he sent a birthday greeting with a sexually suggestive drawing to Jeffrey Epstein in 2003. His alibi: “I don’t draw pictures,” he wrote on Truth Social. But a review of the president’s past reveals that, for years, Mr. Trump was a high-profile doodler — or at least suggested he was. In the early 2000s, he regularly donated drawings to charities in New York. The drawings, many of which appear to be done with a thick, black-marker and prominently feature his signature are not dissimilar to how The Journal describes the birthday note he sent Mr. Epstein.
+
+07-19 CNN: Andy Byron, the chief executive of New York-based tech company Astronomer, has resigned from his role after he was spotted embracing an employee at a Coldplay concert, according to a statement shared with CNN on Saturday.
+
+07-19 AP: A vehicle rammed into a crowd of people waiting to enter a nightclub along a busy boulevard in Los Angeles early Saturday, injuring 30 people and leading bystanders to attack the driver, authorities said. The driver was later found to have been shot, according to Los Angeles police, who were searching for a suspected gunman who fled the scene.
+
+07-20 NYT reports that Donald Trump once hosted a party with “young women” where the disgraced late pedophile Jeffrey Epstein "was the only other guest.”
+
+07-20 AP: Gaza saw its deadliest day yet for aid-seekers in over 21 months of war as at least 85 Palestinians were killed while trying to reach food on Sunday, the territory’s Health Ministry said. There was new alarm as Israel’s military issued evacuation orders for parts of central Gaza, one of the few areas where it has rarely operated with ground troops and where many international organizations trying to distribute aid are located. One group said several offices were told to evacuate immediately. There was no immediate Israeli comment.
+
+07-21 NYP: Hunter Biden claimed in a new interview that his father’s disastrous performance in last year’s debate with Donald Trump was due in part to Ambien. “He flew around the world. He’s 81 years old. He’s tired. They give him Ambien to be able to sleep and he gets up on the stage and looks like a deer in the headlights.”
+
+07-21 AP: The Trump administration on Monday released records of the FBI’s surveillance of Martin Luther King Jr., despite opposition from the slain Nobel laureate’s family and the civil rights group that he led until his 1968 assassination. The digital document dump includes more than 240,000 pages of records that had been under a court-imposed seal since 1977.
+
+07-22 USA Today: Of the stock and stock fund sales administration officials reported between Jan. 20 and April 30, 90% fell within 10 days of the tariff announcements.
+
+07-22 AP: The Department of Justice wants to interview Jeffrey Epstein’s former girlfriend Ghislaine Maxwell, a senior official said Tuesday. "At the direction of Attorney General Bondi, I have communicated with counsel for Ms. Maxwell to determine whether she would be willing to speak with prosecutors from the Department. I anticipate meeting with Ms. Maxwell in the coming days,” deputy attorney general Todd Blanche said in a statement.
+
+07-22 NYT: Speaker Mike Johnson on Tuesday announced he was cutting short the week’s legislative business and sending the House home early for the summer on Wednesday to avoid having to hold votes on releasing files related to the accused sex trafficker Jeffrey Epstein.
+
+07-22 NBC: Ozzy Osbourne, the wailing Black Sabbath singer-turned-solo act who took the “Crazy Train” from a bleak childhood in working-class Birmingham, England, to heavy metal stardom, has died. He was 76.
+
+07-22 NBC: The Coca-Cola Co. said Tuesday that it will launch a version of its signature drink made with American cane sugar. The announcement comes days after President Donald Trump posted on Truth Social that he had "been speaking to Coca-Cola about using REAL Cane Sugar in Coke in the United States, and they have agreed to do so."
+
+07-23 NBC: More than a hundred aid organizations warned Wednesday that “mass starvation” was spreading in Gaza, with aid workers among those suffering from the lack of adequate food. People are collapsing in the streets, the United Nations' humanitarian agency reported.
+
+07-23 WSJ: When Justice Department officials reviewed what Attorney General Pam Bondi called a “truckload” of documents related to Jeffrey Epstein earlier this year, they discovered that Donald Trump’s name appeared multiple times, according to senior administration officials. In May, Bondi and her deputy informed the president at a meeting in the White House that his name was in the Epstein files, the officials said.
+
+07-24 The House Oversight Committee subpoenaed Ghislaine Maxwell to appear for a deposition even as some Republican lawmakers acknowledge they may not be able to trust her testimony. The panel issued the subpoena requesting a meeting with Maxwell at the Federal Correctional Institution in Tallahassee on Aug. 11, committee Chairman James Comer, R-Ky., announced on Wednesday afternoon.
+
+07-24 NYP: Ex-socialite Ghislaine Maxwell will try to cut a deal with federal authorities during a jailhouse meeting with Deputy Attorney General Todd Blanche, sources told The Post. “She’s going to make a deal,” said Alan Dershowitz, a lawyer and law professor who was pals with, and previously represented, Epstein, who died in federal custody in August 2019. “That’s the way things are done. They make deals with the Mafia, so I’m certain they are going to try to make a deal with her.””
+
+07-24 NYP: A House Oversight panel subcommittee voted to subpoena Bill and Hillary Clinton on Wednesday over their alleged ties to notorious pedophile Jeffrey Epstein’s convicted accomplice, Ghislaine Maxwell.
+
+07-24 NYT: Justice Department officials are expected to interview Ghislaine Maxwell today, two people with knowledge of the situation said.
+
+07-24 NYT: A lawyer for hundreds of Jeffrey Epstein’s victims said the disgraced financier’s estate has a copy of a birthday book in which President Trump is reported to have signed a bawdy poem and drawing in honor of Mr. Epstein’s then 50th birthday. The lawyer, Brad Edwards, also said he believes the estate would turn the book over to federal authorities if requested.
+
+07-24 TMZ: Wrestling legend Hulk Hogan has died at 71 years old. Medics were dispatched to the WWE icon's Clearwater, Florida home early Thursday morning with operators stating it was regarding a "cardiac arrest."
+
+07-24 House Speaker Mike Johnson (R-LA) told CBS News on Thursday that the ongoing controversy surrounding Jeffrey Epstein “is not a hoax” – a stark break from President Donald Trump’s rhetoric on the issue.
+
+07-24 Jeffrey Epstein’s imprisoned former associate Ghislaine Maxwell met with a top Justice Department official for about five hours Thursday, her attorney said, answering every question in “a very productive day.”
+
+07-25 NYT: “This spring, the F.B.I. and the Justice Department made an all-out push involving hundreds of employees to scour the Jeffrey Epstein files with a single goal in mind — find something, anything, that could be released to the public to satisfy the mounting clamor from the angry legions of President Trump’s supporters. But after devoting countless hours to the project, working at times around the clock searching databases, hard drives, network drives, cabinets, desks and closets, the bureau and the department finally acknowledged this month that they had little to show for their efforts. They came to realize, for instance, that there was no specific “client list,” which previous investigators had known years ago.”
+
+07-25 Trump shifting focus to Clintons amid speculation he’s trying to get Maxwell to give dirt on Clintons: “They don’t talk about them, they talk about me,” the president said about the media and its coverage of Epstein. “I have nothing to do with the guy.” A moment later, President Trump claimed Clinton went to the convicted sex offender’s island 28 times; he said that deserves much more scrutiny than his relationship with Epstein. “I never went to the island,” the president added.
+
+07-25 ABC: Ghislaine Maxwell, who sources said initiated the meetings with the Department of Justice, answered questions for about nine hours over two days after being granted a limited form of immunity, the sources said. Maxwell's attorney, David Markus, told ABC News afterward, "There have been no asks and no promises."
+
+07-26 CNN: Just when we thought the Coldplay Jumbotron controversy had run its course, Gwyneth Paltrow has entered the chat. The Academy Award-winning actress and Goop founder appeared in a new – and very funny – ad for Astronomer, the tech firm whose former CEO and human resources chief launched a million memes after being shown on a Jumbotron at a Coldplay concert last week.
+
+07-27 NBC: A man and a woman who had recently moved to northwest Arkansas were killed as they hiked in a state park with their school-age daughters, authorities said Sunday.
+
+07-27 NBC: Israel announced Sunday it was pausing fighting in some areas of the Gaza Strip to facilitate aid delivery after international outrage swelled in recent days over surging deaths by malnutrition and widespread starvation caused by Israeli restrictions on humanitarian aid.
+
+07-27 WaPo: President Donald Trump is increasingly frustrated with how his administration’s handling of the furor around the Jeffrey Epstein files has dominated the news and overshadowed his agenda, said two people familiar with his thinking. “This is a pretty substantial distraction,” said one person close to the situation. “While many are trying to keep the unity, in many ways, the DOJ and the FBI are breaking at the seams. Many are wondering how sustainable this is going to be for all the parties involved — be it the FBI director or attorney general.” Despite his frustration, Trump has been hesitant to make personnel changes, according to another person close to the president: “He does not want to create a bigger spectacle by firing anyone,” this person said.
+
+07-28 The Hill: An ad campaign from American Eagle featuring actor Sydney Sweeney has sparked backlash over what users on social media have deemed racist undertones — or overtones, some say. Much of the criticism has swirled around the campaign’s title: “Sydney Sweeney Has Great Jeans,” a play on “good genes.”
+
+07-29 WSJ: The gunman who killed four people in a Midtown Manhattan skyscraper accused the National Football League in a suicide note of concealing the dangers of the sport on players’ brains, according to a New York Police Department official. Shane Tamura, 27 years old, used an AR-15-style rifle to kill an NYPD police officer in the lobby of the building, as well as a security guard, an executive of financial firm Blackstone and a real-estate firm employee before shooting himself in the chest, police said. Investigators recovered three pieces of paper from Tamura’s wallet that included a request that his brain be studied for chronic traumatic encephalopathy, the official said. The disease is associated with head injuries that can be diagnosed conclusively after an autopsy.
+
+07-29 CBS News: The "missing minute" from the surveillance video at the Manhattan Metropolitan Correctional Center where Jeffrey Epstein died in 2019 may not be missing after all. A government source familiar with the investigation says the FBI, the Bureau of Prisons and the Department of Justice inspector general are all in possession of a copy of the video that does not cut from just before 11:59 p.m. to midnight of the night Epstein died by suicide in his cell.
+
+07-30 AP: One of the strongest earthquakes ever recorded struck off Russia’s sparsely populated Far East early Wednesday, sending tsunami waves into Japan, Hawaii and the U.S. West Coast. Several people were injured, but none gravely, and no major damage has been reported so far.
+
+07-30 Defense Secretary Pete Hegseth has privately discussed the idea of running for political office next year in Tennessee, according to two people who have spoken directly with him about it.
+
+07-30 Daily Mail: Lawmakers have denied Ghislaine Maxwell's request for congressional immunity in exchange for her testimony.
+
+07-30 A review by CBS News finds that the recently released Epstein cell block tape “does little to provide evidence to support claims that were later made by federal officials. Additionally, CBS News has identified multiple inconsistencies between that report and the video that raise serious questions about the accuracy of witness statements and the thoroughness of the government's investigation.”
+
+07-30 CNN: Arab and Muslim states including Qatar, Saudi Arabia and Egypt have for the first time issued a joint call for Hamas to disarm and relinquish power in the Gaza Strip as part of efforts to end the war in the territory.
+
+07-30 NYT: Former Vice President Kamala Harris will not run for California governor next year, she announced Wednesday, forgoing another campaign after losing last year’s presidential election.
+
+07-31 AP: The Trump administration announced it is launching a new program that will allow Americans to share personal health data and medical records across health systems and apps run by private tech companies, promising that will make it easier to access health records and monitor wellness. More than 60 companies, including major tech companies like Google, Amazon and Apple as well as health care giants like UnitedHealth Group and CVS Health, have agreed to share patient data in the system. The initiative will focus on diabetes and weight management, conversational artificial intelligence that helps patients, and digital tools such as QR codes and apps that register patients for check-ins or track medications.
+
+07-31 NBC: A suspect who worked as a teacher in public schools has been arrested in the killings of a couple who were attacked on an Arkansas hiking trail Saturday, state police said Wednesday. James Andrew McGann, 28, of Springdale, was arrested at 4:57 p.m. Wednesday at a business in Springdale and is charged with two counts of capital murder, Arkansas State Police said in a statement.
+
+07-31 NBC: One of Donald Trump’s most visible and potentially enduring legacies as president could be the 90,000-square-foot ballroom that he is planning to build, replacing the East Wing edifice traditionally used for the first lady’s offices. The project, set to begin in September, looms as the biggest transformation of the White House complex since Harry Truman’s day.
+
+08-01 AP: Former Vice President Kamala Harris will have a memoir out in the fall on her historic presidential run. The book is called “107 Days,” the length of her abbreviated campaign, and will be published by Simon & Schuster on Sept. 23.
+
+08-01 NYT: Ghislaine Maxwell was moved to a minimum-security prison camp in Texas, her lawyer said. Her relocation, from a federal prison in Tallahassee, Fla., came about a week after she was interviewed by a top Justice Department official about the Epstein case.
+
+08-01 NYT: President Trump said he had ordered two nuclear submarines to be positioned in “the appropriate regions” in response to what he called “highly provocative statements” made by Dmitri A. Medvedev, Russia’s outspoken former president and a close ally of his country’s longtime leader Vladimir V. Putin. Overnight, Trump and Medvedev traded scathing insults: Trump called Medvedev a “failed former President of Russia” who had better “watch his words.” Hours later, Medvedev said Trump should envision the apocalyptic television series “The Walking Dead” and referred to the Soviet Union’s system for launching a last-ditch, automatic nuclear strike.
+
+08-01 AP: The Ukrainian capital Kyiv observed an official day of mourning Friday, a day after a Russian drone and missile attack on the city killed 31 people, including five children, and injured more than 150, officials said. It was the highest number of children killed and injured in a single attack on Kyiv since aerial attacks on the city began in October 2022, according to official casualty figures reported by The Associated Press.
+
+08-01 CNBC: President Donald Trump on Friday fired the Bureau of Labor Statistics commissioner, hours after the agency reported that job growth in the U.S. had slowed to a near-halt. In a Truth Social post that also directed even more fire at Fed Chair Jerome Powell, Trump accused BLS Commissioner Erika McEntarfer of being a political appointee who was manipulating jobs data.
+
+08-01 NYP: House Republicans agreed Friday to postpone an Aug. 11 deposition by convicted sex trafficker Ghislaine Maxwell, hours after she was transferred to a low-security federal prison in Texas. Oversight Committee Chairman James Comer (R-Ky.) denied requests from Maxwell’s lawyer David Oscar Markus to provide immunity in exchange for her testimony — but agreed to push the interview back until after the US Supreme Court considers an appeal of the disgraced socialite’s 2021 federal conviction.
+
+08-02 Trump makes weird comments about his 27-year-old press secretary. “It’s that face. It’s that brain. It’s those lips, the way they move. They move like she’s a machine gun.”
+
+08-04 Trump writes on Truth Social: “Sydney Sweeney, a registered Republican, has the ‘HOTTEST’ ad out there. It’s for American Eagle, and the jeans are ‘flying off the shelves.’ Go get ‘em Sydney!”
+
+08-04 News Corp announces New York Post will expand to new outlet, California Post.
+
+08-05 Politico: A 19-year-old man known as “Big Balls” who played a key role in the DOGE initiative to shrink the size of government was assaulted over the weekend in Washington, according to city police. Edward Coristine, who still works for the government, was assaulted by approximately 10 juveniles near Dupont Circle about 3 a.m. Sunday, according to a police report obtained by POLITICO.
+
+08-05 CNN: Negotiations on a hostage and ceasefire deal in Gaza appear to be at an impasse, with Israeli Prime Minister Benjamin Netanyahu leaning towards expanded military operations and Hamas demanding the humanitarian situation be addressed before it returns to talks. Netanyahu will urge a meeting of the security cabinet to support the full “conquest of the Strip” according to reports in Israeli media that were described as accurate by a source familiar with the matter.
+
+08-05 NYP: President Trump was spotted strolling along a roof at the White House on Tuesday morning — and jokingly told reporters he was planning to install “nuclear missiles” there. The president at first claimed he was “just taking a little walk” — before saying he was looking to put “nuclear missiles” there and chuckling and moving his hand to mimic a projectile.
+
+08-05 Daily Mail: Chinese officials have imposed Covid-like quarantines in parts of the country as cases of chikungunya virus continue to surge.
+
+08-05 AP: Two 15-year-olds have been arrested in Washington in connection with the attempted carjacking and beating of one of the most prominent members of the Department of Government Efficiency, renewing calls from President Donald Trump for the federal government to seize control of the nation’s capital.
+
+08-06 CNN: President Donald Trump on Tuesday reignited his threat for the federal government to “run” Washington, DC, after a former Department of Government Efficiency employee was assaulted in an attempted carjacking. “I have to say that somebody from DOGE was very badly hurt … A young man who was beat up by a bunch of thugs in DC, and either they’re gonna straighten their act out in the terms of government and in terms of protection or we’re gonna have to federalize and run it the way it’s supposed to be run,” Trump told reporters Tuesday.
+
+08-06 CNN: Top Trump administration officials will gather at the vice president’s residence Wednesday evening as they continue to weigh whether to publish an audio recording and transcript of Deputy Attorney General Todd Blanche’s recent conversation with Jeffrey Epstein accomplice Ghislaine Maxwell. There have also been internal discussions about Blanche holding a press conference or doing a high-profile interview, possibly with popular podcaster Joe Rogan, according to three people familiar with the discussions, though those conversations are preliminary.
+
+08-06 Sean 'Diddy' Combs has reached out to Trump about pardon, source says
+
+08-06 The New Yorker publishes “The Internet Wants to Check Your I.D.: New safety rules require users to verify their identities before gaining access to sites. This spells the end of the relative anonymity that we’ve come to expect online.”
+
+08-07 Reuters: Following weeks of suspense over Trump's final tariff rates and frantic negotiations with major trading partners that sought to lower them, President Donald Trump's higher tariff rates on imports from dozens of countries have kicked in, raising the average U.S. import duty to its highest in a century.
+
+08-07 Israeli Prime Minister Benjamin Netanyahu confirmed on Thursday that the Israel Defense Forces will begin a new offensive to occupy the entire Gaza Strip in an effort to root out Hamas. "We intend to control all of Gaza. We don't want to keep Gaza. We want a security perimeter. We want to hand Gaza over to Arab forces that will govern Gaza properly," Netanyahu said in an interview with Fox News.
+
+08-07 ALTON, Ill. – Two people were killed after a helicopter crashed into a barge on the Mississippi River just north of St. Louis.
+
+08-08 WASHINGTON — President Trump is planning to deploy federal law enforcement on the streets of the nation’s capital as early as Friday to crack down on violence committed by gangs of roaming “youths,” the White House confirmed to The Post. “DC residents can expect to see an increase in federal enforcement starting as early as tomorrow,” an administration official said Thursday, adding that operational details were still being finalized.
+
+08-08 A self-described cryptocurrency enthusiast told ESPN that he is part of a group that orchestrated recent sex toy stunts that have disrupted at least three WNBA games in the past 10 days. The man, who spoke on the condition of anonymity over videoconference Wednesday, said the stunts were meant to market a crypto coin that his online community created. The WNBA and all its "controversy," he said, made the league a logical target.
+
+08-08 Washington and Moscow are aiming to reach a deal to halt the war in Ukraine that would lock in Russia’s occupation of territory seized during its military invasion, according to people familiar with the matter. US and Russian officials are working toward an agreement on territories for a planned summit meeting between Presidents Donald Trump and Vladimir Putin as early as next week, the people said, speaking on condition of anonymity to discuss private deliberations.
+
+08-08 President Trump has secretly signed a directive to the Pentagon to begin using military force against certain Latin American drug cartels that his administration has deemed terrorist organizations, according to people familiar with the matter.
+
+08-08 After the vice president denied a CNN report about a planned dinner at his home with Attorney General Pam Bondi and FBI Director Kash Patel on Wednesday, the meeting venue was changed to the White House. They discussed a number of topics, including the Jeffrey Epstein case and potential next steps, a 'source familiar' told CNN. Both Bondi and Patel were spotted leaving the White House on Wednesday evening.
+
+08-09 NYT: President Volodymyr Zelensky of Ukraine on Saturday flatly rejected the idea that Ukraine could cede land to Russia after President Trump suggested that a peace deal between Ukraine and Russia could include “some swapping of territories.” “Ukrainians will not gift their land to the occupier,” Mr. Zelensky said.
+
+08-10 NBC: The White House is considering inviting Ukrainian President Volodymyr Zelenskyy to Alaska, where President Donald Trump is scheduled to meet with Russian President Vladimir Putin next week, according to a senior U.S. official and three people briefed on the internal discussions.
+
+08-10 NYT: President Claudia Sheinbaum of Mexico rejected the use of U.S. military forces in her country on Friday, responding to news that President Trump had directed the Pentagon to target drug cartels that the United States considers terrorist organizations. “The United States is not going to come to Mexico with the military. We cooperate, we collaborate, but there is not going to be an invasion. That is ruled out, absolutely ruled out,” she said, adding that she would read the order. “It is not part of any agreement, far from it. When it has been brought up, we have always said no.”
+
+08-10 WaPo: The FBI has begun dispatching about 120 of its agents in overnight shifts to help local law enforcement prevent carjackings and violent crime in Washington, according to two people familiar with the matter, as President Donald Trump threatens a federal takeover of the nation’s capital.
+
+08-10 NBC: Five Al Jazeera journalists were killed in a targeted Israeli airstrike in Gaza on Sunday, the network said, with the Israel Defense Forces claiming one was a Hamas leader posing as a journalist.
+
+08-11 The U.S. military is preparing for the activation of hundreds of National Guard troops to Washington, D.C., two U.S. officials told Reuters on Sunday. The officials, who were speaking on the condition of anonymity, said a final decision was still to be made by U.S. President Donald Trump but the troops were prepared to deploy.
+
+08-11 WaPo: President Donald Trump announced Monday that he would place the D.C. police under direct federal control and deploy the National Guard to the streets of Washington to fight crime and clear the city of its homeless population, an extraordinary flex of federal power that could expose residents of the nation’s capital to unpredictable encounters with a domestically-deployed military force.
+
+08-11 Epstein story dying down: “I would say that this is, from at least a political point of view, quickly turning into a dud of a story,” CNN chief data analyst Harry Enten said on CNN News Central, causing anchor Kate Bolduan to remark how “wild” it was that interest had fallen off. “Take a look here. Google searches for Epstein down 89 percent versus just three weeks ago. Falling through the floor,” an animated Ented exclaimed. “It is no longer the top term searched alongside Donald Trump‘s name – that‘s been trading off between tariffs and Vladimir Putin, with obviously the meeting coming up later this week.”
+
+08-11 It’s been a historically humid summer. AP: More than 70 million Americans sweated through the muggiest first two months of summer on record as climate change has noticeably dialed up the Eastern United States’ humidity in recent decades, an Associated Press data analysis shows. Parts of 27 states and Washington, D.C., had a record amount of days that meteorologists call uncomfortable — with average daily dew points of 65 degrees Fahrenheit or higher — in June and July, according to data derived from the Copernicus Climate Service.
+
+08-11 The Atlantic publishes “Canada Is Killing Itself”: "When Canada’s Parliament in 2016 legalized the practice of euthanasia—Medical Assistance in Dying, or MAID, as it’s formally called—it launched an open-ended medical experiment. One day, administering a lethal injection to a patient was against the law; the next, it was as legitimate as a tonsillectomy, but often with less of a wait. MAID now accounts for about one in 20 deaths in Canada—more than Alzheimer’s and diabetes combined—surpassing countries where assisted dying has been legal for far longer."
+
+08-12 The Trump administration is evaluating plans that would establish a “Domestic Civil Disturbance Quick Reaction Force” composed of hundreds of National Guard troops tasked with rapidly deploying into American cities facing protests or other unrest, according to internal Pentagon documents reviewed by The Washington Post. The plan calls for 600 troops to be on standby at all times so they can deploy in as little as one hour, the documents say.
+
+08-12 After Trump tried to unseal Epstein grand jury files to placate the controversy, a judge kiboshed it. “In his 31-page ruling, U.S. District Judge Paul A. Engelmayer, a Barack Obama appointee, says that the grand jury materials do not identify anyone other than Epstein or Maxwell as having had sexual contact with a minor.”
+
+08-13 California Gov. Gavin Newsom said California will move forward with drawing new congressional maps that he said "WILL END THE TRUMP PRESIDENCY" and allow Democrats to take control of the U.S. House of Representatives. "DONALD 'TACO' TRUMP, AS MANY CALL HIM, 'MISSED' THE DEADLINE!!! CALIFORNIA WILL NOW DRAW NEW, MORE 'BEAUTIFUL MAPS,' THEY WILL BE HISTORIC AS THEY WILL END THE TRUMP PRESIDENCY (DEMS TAKE BACK THE HOUSE!)," Newsom wrote Tuesday night, in a post written in the style of President Donald Trump's occasionally all-caps social media posts.
+
+08-13 Russia and the United States have discussed a model for ending the war in Ukraine that mirrors Israel’s occupation of the West Bank, The Times has been told. Under this scenario Russia would have military and economic control of occupied Ukraine under its own governing body, imitating Israel’s de facto rule of Palestinian territory seized from Jordan in 1967.
+
+08-14 Reuters: The United States has ordered the deployment of U.S. air and naval forces to the Southern Caribbean Sea to address threats from Latin American drug cartels, two sources briefed on the decision told Reuters on Thursday.
+
+08-14 CNN: Sam Altman, the artificial intelligence hype master, is in damage-control mode. OpenAI’s latest version of its vaunted ChatGPT bot was supposed to be “PhD-level” smart. It was supposed to be the next great leap forward for a company that investors have poured billions of dollars into. Instead, ChatGPT got a flatter, more terse personality that can’t reliably answer basic questions. The resulting public mockery has forced the company to make sweaty apologies while standing by its highfalutin claims about the bot’s capabilities.
+
+08-14 The Capitol Hill battle over Jeffrey Epstein is poised to heat up when Congress returns to Washington next month. A bipartisan pair of lawmakers have vowed to force a vote on their resolution requiring the administration to release the federal files it’s withholding and plan to bring survivors of Epstein’s abuse to Capitol Hill in the first days of Congress’s return.
+
+08-14 NBC: Attorney General Pam Bondi further cemented the Trump administration's takeover of D.C. law enforcement Thursday by shifting decision-making authority from its police chief and handing it to the head of the Drug Enforcement Administration.
+
+08-15 Less than 12 hours after the Trump administration seemingly replaced Washington, D.C.’s, police chief with a federal officer, the District is headed to federal court to block the move.
+
+08-15 Trump Says There Is ‘No Deal’ on Ukraine After Summit With Putin
+
+08-15 AP: The Trump administration on Friday reversed course and agreed to leave the Washington, D.C., police chief in control of the department, while Attorney General Pam Bondi, in a new memo, directed the District’s police to cooperate with federal immigration enforcement “notwithstanding” city law.
+
+08-16 More National Guard troops are heading soon to Washington, D.C., and they are preparing to start carrying weapons in the coming days, officials say.
+
+08-18 Ukraine’s future could hinge on a hastily assembled meeting Monday at the White House as Ukrainian President Volodymyr Zelenskyy brings an extraordinary cadre of European leaders with him to show U.S. President Donald Trump a united front against Russia. The European political heavy-hitters were left out of Trump’s summit with Russian President Vladimir Putin last Friday in Alaska, and they are looking to safeguard Ukraine and the continent from any widening aggression from Moscow.
+
+08-18 Throngs of commuters and tourists were evacuated from the heart of Times Square on Monday morning as cops investigated a suspicious package found outside the local NYPD precinct. The cylindrical device was discovered in front of the police department’s small Times Square Precinct building at 43rd Street and Seventh Avenue around 10:30 a.m., law enforcement sources said — and the emergency response from authorities quickly turned the packed area into a ghost town.
+
+08-18 A European official told CNN that Trump paused the negotiations with the European leaders and Zelensky in order to call Putin. The news was first reported by German newspaper Bild, who reported the talks with European leaders would continue after the call with Putin at the White House.
+
+08-19 Measles outbreak in West Texas declared to be over; total of 762 cases this year
+
+08-19 After Epstein kerfuffle, “the FBI has moved to appoint Missouri Attorney General Andrew Bailey as its new “co-deputy director,” meaning its current deputy, Dan Bongino, will be expected to share his duties in the role in the future.”
+
+08-20 Reuters: Three U.S. Aegis guided-missile destroyers will arrive off the coast of Venezuela in the next 36 hours as part of an effort to address threats from Latin American drug cartels, two sources briefed on the matter said on Monday.
+
+08-20 NYT: President Trump dialed into “Fox & Friends” on Tuesday morning and revealed his newest and truest motivation for brokering an end to the war in Ukraine: He’s worried he might not get into heaven after he dies. “I want to try and get to heaven, if possible,” he explained. “I’m hearing I’m not doing well. I am really at the bottom of the totem pole. But if I can get to heaven, this will be one of the reasons.”
+
+08-21 NBC: Israel launched strikes on Gaza City overnight as it moved forward with a new offensive in the Palestinian enclave despite international condemnation and mounting domestic protests. Explosions rocked neighborhoods in the city Thursday, after Israel said its military had entered the first stages of a planned assault that includes calling up 60,000 reservists.
+
+08-21 Daily Express: A massive Russian assault in the western Ukrainian city of Mukachevo, Zakarpattia Oblast, overnight resulted in the destruction of a U.S. electronics plant. Local authorities reported that 19 people were injured in the attack.
+
+08-21 NBC: After months of escalating attacks against President Donald Trump, California Gov. Gavin Newsom seems to have finally hit a nerve by hijacking his tactics. Newsom has put California at the center of Democrats’ campaign against a Trump-backed effort in Texas to pad the GOP’s U.S. House majority, countering with a rare, mid-decade redistricting proposal of his own. All the while, he’s flooded social media with a steady stream of all-caps screeds mocking the president’s signature style.
+
+08-22 AP: The FBI is searching the Maryland home of John Bolton, who served in President Donald Trump’s first administration as national security adviser but later became critical of the president, as part of an investigation into the handling of classified documents, a person familiar with the matter said Friday.
+
+08-22 Politico: Convicted sex trafficker Ghislaine Maxwell, who is seeking a pardon from Donald Trump, told top Justice Department officials during an interview last month that she never witnessed the president “in any inappropriate setting” with girls introduced to him by disgraced financier Jeffrey Epstein.Maxwell, Epstein’s co-conspirator who is serving a 20-year federal prison sentence, makes unfailingly flattering references to Trump, according to transcripts of the conversation released by the Justice Department on Friday. She says she “never” observed Trump receive a “massage,” which is the term prosecutors have said Epstein and Maxwell used as code language to describe sexual encounters with the girls and young women they recruited.
+
+08-24 Fox: Up to 1,700 National Guardsmen are set to mobilize in 19 states in the coming weeks to assist the Department of Homeland Security with President Donald Trump’s nationwide crackdown on illegal immigration and crime, Pentagon officials confirmed to Fox News. Documents obtained by Fox News show planning for activations in Alabama, Arkansas, Florida, Georgia, Idaho, Indiana, Iowa, Louisiana, Nebraska, Nevada, New Mexico, Ohio, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia and Wyoming – with status effective from August through mid-November. Texas is projected to host the most significant Guard presence.
+
+08-25 Asked if “investors as a whole are overexcited about AI,” OpenAI’s Sam Altman answered “yes” to a group of gathered reporters. “When bubbles happen, smart people get overexcited about a kernel of truth,” he said. “If you look at most of the bubbles in history, like the tech bubble, there was a real thing. Tech was really important. The internet was a really big deal. People got overexcited.”
+
+08-25 Express: A dark bruise has been spotted on Donald Trump's hand again as the US President signed an executive order in the Oval Office on Monday.
+
+08-25 WaPo: Rapper Lil Nas X, 26, was charged with four felonies after he was reportedly seen walking naked in Los Angeles around 6 a.m. Thursday. The “Old Town Road” musician, whose legal name is Montero Lamar Hill, faces three counts of battery against a police officer and a count of resisting an executive officer, according to Los Angeles Superior Court records.
+
+08-26 CNN: After days of intense backlash, most recently from President Donald Trump, Cracker Barrel is scrapping its new minimalist logo. Trump congratulated the company on its reversal Tuesday. “All of your fans very much appreciate it. Good luck into the future. Make lots of money and, most importantly, make your customers happy again!,” he said on Truth Social.
+
+08-26 WaPo: President Donald Trump on Tuesday said he wants to see the death penalty imposed on every person convicted of murder in D.C., continuing his exertion of control over the capital city with a move that is likely to draw intense political and legal pushback.
+
+08-26 Variety: Taylor Swift and Travis Kelce are officially engaged.
+
+08-27 (Bloomberg) -- President Donald Trump’s administration is moving to reclaim management of Washington’s Union Station, a historic rail hub that federal officials say has deteriorated after decades of fractured oversight.
+
+08-27 Minneapolis Star Tribune: Two children were killed in a shooting Wednesday at Annunciation Church in south Minneapolis, a source confirmed to the Minnesota Star Tribune. The gunman is also dead, the law enforcement source said. Witnesses reported several children were shot during a school Mass. First responders said there were “at least 20 victims,” according to emergency dispatch audio. Nearby residents reported lengthy gunfire, and a huge law enforcement response surrounded the area.
+
+08-27 WSJ: Americans are stuck in place. People are moving to new homes and new cities at around the lowest rate on record. Companies have fewer roles for entry-level workers trying to launch their lives. Workers who do have jobs are hanging on to them. Economists worry the phenomenon is putting some of the country’s trademark dynamism at risk.
+
+08-28 USA Today: President Donald Trump isn't planning a long-term military occupation of American cities, Vice President JD Vance told USA TODAY in an exclusive interview, but Vance said National Guard troops will need time to reduce crime. "We don't want indefinitely to put National Guardsmen on the streets of our cities. We just want to make those streets more safe," Vance said on Aug. 27.
+
+08-28 Reuters: Russia pounded Ukraine with deadly missiles and drone strikes early on Thursday in a sweeping attack that President Volodymyr Zelenskiy said was Moscow's answer to diplomatic efforts to end its war. At least 18 people, including four children, were killed in the capital, officials from the city administration said. The strikes damaged the European Union's mission and British Council offices in the city, officials said.
+
+08-28 NYT: The White House said late Wednesday that it had fired Susan Monarez, the new director of the Centers for Disease Control and Prevention, after a tense confrontation in which Health Secretary Robert F. Kennedy Jr. tried to remove her from her position. A lawyer for Dr. Monarez said in response that she was refusing to step down. Dr. Monarez, an infectious disease researcher, was sworn in just a month ago by Mr. Kennedy, but had clashed with the secretary over vaccine policy, people familiar with the events said. Four other high-profile C.D.C. officials quit en masse, apparently in frustration over vaccine policy and Mr. Kennedy’s leadership.
+
+08-28 Discussion of whether the Minneapolis shooter is part of a trend of far-right shooters immersed in “O9A/764” community
+
+08-29 CNBC: A federal appeals court ruled Friday that most of President Donald Trump’s global tariffs are illegal, striking a massive blow to the core of his aggressive trade policy. The U.S. Court of Appeals for the Federal Circuit held in a 7-4 ruling that the law Trump invoked when he granted his most expansive tariffs — including his “reciprocal” tariffs — does not actually grant him the power to impose those levies.
+
+08-30 Forbes: President Donald Trump on Saturday was photographed leaving for his golf course in Virginia, dispelling unfounded rumors spread on social media that Trump had died in recent days after not being seen publicly. Search inquiries for “Trump,” “is Trump dead” and “Trump dead” were among the top searches on Google as of noon Saturday while “Where is Donald Trump” was trending on X.
+
+09-01 Axios: Chicago leaders are preparing this week for what could be the start of expanded immigration raids and National Guard deployments in the city. Even though violent crime in Chicago is lower than in previous years, the city had at least 53 shootings and seven deaths over Labor Day weekend, including two separate mass shootings in Bronzeville.
+
+09-02 NBC: A government shutdown deadline, a standoff over President Donald Trump’s nominees and a renewed clash over the Jeffrey Epstein files await Congress as it returns Tuesday after a month-long August recess.
+
+09-02 Mediaite: A strange video of objects purportedly being thrown out of a White House window has sparked a wave of intense speculation across social media. The video, posted to Instagram and X Monday, shows a figure at the White House window as two men, filming from what sounds like a restaurant, watch in amazement.
+
+09-02 After a weekend of Trump death/health rumors, it was announced that he would give an announcement from the Oval Office at 2 today. The White House later clarified it would be about the Space Force HQ location. The announcement started 40 minutes late, and hand discoloration was visible, but was not otherwise noteworthy.
+
+09-02 AP: President Donald Trump said Tuesday the U.S. has carried out a strike in the southern Caribbean against a drug-carrying vessel that departed from Venezuela and was operated by the Tren de Aragua gang. The president said in a social media posting that 11 people were killed in the military operation and he posted a video of a small vessel appearing to explode in flames.
+
+09-03 Daily Express: While Vladimir Putin observed the Chinese military parade alongside fellow autocrats Xi Jinping and Kim Jong Un, he unleashed one of the most devastating assaults on Ukraine throughout the entire conflict. The brutal missile and drone barrage forced NATO to scramble fighter jets in areas along the Ukrainian border. Russian forces hammered Kyiv and more than a dozen separate locations, destroying civilian infrastructure and railway systems, causing massive train disruptions.
+
+09-03 LA Times: A COVID wave is washing over California, with the state seeing continued increases in the number of newly confirmed cases and hospitalizations as some officials urged the public to take greater precautions. The extent of the recent increases has prompted some county-level health officials to recommend that residents once again consider wearing masks in indoor public settings, at least until transmission has declined.
+
+09-04 CNN: In the wake of the Minneapolis Catholic church shooting, senior Justice Department officials are weighing proposals to limit transgender people’s right to possess firearms, according to two officials familiar with the internal discussions.
+
+09-04 CBS: Two armed Venezuelan F-16 fighter jets flew over the USS Jason Dunham on Thursday, according to multiple Defense Department officials who described the action as a "show of force."
+
+09-05 CBS: For the second time in two days, Venezuela has flown military aircraft over the USS Jason Dunham in international waters near South America, multiple Defense Department officials confirmed to CBS News Friday, describing the action as turning into a "game of chicken."
+
+09-06 CNN: President Donald Trump is weighing a multitude of options for carrying out military strikes against drug cartels operating in Venezuela, including potentially hitting targets inside the country as part of a broader strategy aimed at weakening leader Nicolas Maduro, according to multiple sources briefed on the administration’s plans.
+
+09-08 ABC: At least six people were shot dead at Jerusalem's Ramot Junction on Monday, Israeli police and emergency services said. Two suspects were also shot and killed at the scene, police said in a statement. The attackers opened fire at people waiting at a bus depot, police said, before boarding a bus to continue the attack. At least 17 people were also injured in the shooting, Israeli emergency services said.
+
+09-08 Democrats on the House Oversight Committee publish Trump’s drawing for Epstein’s birthday album on X.
+
+!['Trump’s drawing for Epstein’s birthday album.'](/everything-2025/donald-trump-epstein-birthday-album.jpg)
+
+09-08 NYT: The Murdoch family’s epic, decades-long succession battle has reached a multibillion-dollar finale. Lachlan Murdoch has completed an agreement to secure control of his family’s sprawling media empire for decades to come, the family announced on Monday.
+
+09-08 USA Today: After much speculation and teasing by President Donald Trump, the Department of Homeland Security said it is launching Operation Midway Blitz, a new initiative targeting undocumented immigrants who commit crimes across Chicago and Illinois.
+
+09-09 AP: Israel launched a strike targeting Hamas’ leadership in Qatar on Tuesday, officials said. Black smoke rose over the skyline of the Qatari capital, Doha, with authorities there acknowledging the strike. It wasn’t immediately clear if anyone was hurt in the attack, marking the second time the energy-rich nation has been directly attacked in the nearly two years of war that have gripped the wider Middle East since Hamas’ attack on southern Israel on Oct. 7, 2023.
+
+09-10 AP: The downing of Russian drones over Poland, the first direct encounter between NATO and Moscow since the war in Ukraine began, jolted leaders across Europe on Wednesday and raised urgent questions about how prepared the alliance is against growing Russian aggression. Poland’s armed forces, with the help of the nation’s allies, shot down multiple Russian drones that crossed its airspace overnight, including some launched from Belarus, Polish authorities said.
+
+09-10 Guardian: Charlie Kirk, the powerful rightwing activist, Trump ally and executive director of Turning Point USA (TPUSA), has been shot on Wednesday while hosting an event in Utah.
+
+09-10 Kirk confirmed dead after hospitalization. An elderly man was initially photographed being arrested as a suspect, but officials now say the shooter is still at large.
+
+09-10 NBC: A teenager who shot two fellow students before turning the gun on himself at a high school in the foothills of suburban Denver has died, authorities said. The shooting was reported around 12:30 p.m. at the school in Evergreen, about 30 miles west of Denver, sheriff's spokesperson Jacki Kelley said earlier. It is not clear what led to the gunfire.
+
+09-10 Daily Mail: A suspect who opened fire on conservative influencer Charlie Kirk has been captured, FBI Director Kash Patel has confirmed.
+
+09-10 FBI Director Kash Patel: “The subject in custody has been released after an interrogation by law enforcement. Our investigation continues and we will continue to release information in interest of transparency”
+
+09-11 WSJ: Investigators found ammunition engraved with expressions of transgender and antifascist ideology inside the rifle that authorities believe was used in the fatal shooting of Charlie Kirk, according to an internal law enforcement bulletin and a person familiar with the investigation. The older-model .30 caliber hunting rifle was discovered in the woods near the scene of Wednesday's shooting at Utah Valley University, wrapped in a towel with a spent cartridge still in the chamber, the sources said. There were also three unspent rounds in the magazine, all with wording on them.
+
+09-11 Daily Mail: The assassination of Charlie Kirk at Utah Valley University has not only shocked the nation but also sparked a wildfire of conspiracy theories online. Some of the most extreme posts suggest everything from suspicious private jets to hand signals and even claims that the gunshot was actually an explosion.
+
+09-11 AP: A panel of Brazilian Supreme Court justices sentenced former president Jair Bolsonaro to 27 years and three months in prison Thursday after convicting him of attempting a coup to remain in office despite his 2022 electoral defeat.
+
+09-11 CNN: A midshipman was injured after mistaking law enforcement for an active shooter after misinformation spread online, according to a US Navy official. The Naval Academy in Annapolis, Maryland, was locked down Thursday after threats were issued, and concerns of an active shooter posted anonymously on a chat platform. But there was no active shooter on campus, according to communications from the school’s commandant seen by CNN.
+
+09-12 Sun: Donald Trump has announced a suspect in the assassination of Charlie Kirk has been taken into custody after being turned in by his dad. Trump explained that someone "very close" to the suspect turned him. He then expanded that it was the suspect's father, at the urging of a minister. Trump said: "They drove into the police headquarters. He's there now."
+
+09-12 NBC: The suspect in the Charlie Kirk shooting has been identified as Tyler Robinson, a 22-year-old from Utah, five senior law enforcement officials told NBC News later Friday morning.
+
+09-12 Utah Governor Spencer Cox gives updates on the shooter. “Bullet casings discovered by investigators had several inscriptions engraved on them, Cox said. The casing that had been fired read: “notices bulges OWO what’s this?” Robinson, a Utah resident, confessed to his dad that he was the shooter, who told a family friend who called law enforcement to the scene on Thursday night, Cox said. Police reportedly found messages on Robinson's Discord account where he appeared to plot the assassination. After the shooting, he told his friends that he had changed clothes to escape the police."
+
+09-12 NYT: An attempt to ban social media in Nepal ended this week in violent protest with the prime minister ousted, the Parliament in flames and soldiers on the streets of the capital. Now, the very technology the government tried to outlaw is being harnessed to help select the country’s next leader, as more than 100,000 citizens are meeting regularly in a virtual chat room to debate the country’s future. “The Parliament of Nepal right now is Discord,” said Sid Ghimiri, 23, a content creator from Kathmandu, describing how the site has become the center of the nation’s political decision making.
+
+09-12 Discord was not used by Tyler Robinson to either plan the murder of Charlie Kirk or to hide the evidence ... TMZ has learned.
+
+09-12 NYT: The authorities in Colorado on Thursday named the 16-year-old student suspected of shooting two other students at Evergreen High School on Wednesday, and said that he had been “radicalized by an extremist network,” which they did not identify. The suspect, Desmond Holly, died of self-inflicted injuries on Wednesday night after he opened fire on the school grounds that day, according to the Jefferson County Sheriff’s Office.
+
+09-13 CNN: President Donald Trump shelved his plans to target Chicago as the next city for his domestic crime push after advisers warned him that sending in troops to help with local law enforcement without buy-in from the state’s governor could create legal headaches they want to avoid, sources familiar with the matter told CNN.
+
+09-13 Fox News: Charlie Kirk’s alleged assassin lived with his transgender partner, senior-level FBI officials told Fox News Digital. Bureau officials confirmed that Tyler Robinson, 22, was in a "romantic relationship" with the unnamed person, who is a male transitioning to a female, and that they shared an apartment in Saint George, Utah. Those FBI officials told Fox News Digital that Robinson's partner is fully cooperating with the FBI's investigation.
+
+09-14 WSJ: The 22-year-old man accused of killing conservative activist Charlie Kirk isn’t cooperating with authorities, but those close to him are, Utah Gov. Spencer Cox said Sunday.
+
+09-14 The grandmother of Tyler Robinson, the 22-year-old who allegedly shot Charlie Kirk, spoke out for the first time Friday, claiming there’s no way her quiet and reserved grandson killed the conservative activist. Speaking to the Daily Mail, Debbie Robinson, 69, claimed she “never” heard Tyler Robinson discussing politics despite his father’s support for President Donald Trump, whom Tyler Robinson dressed as for Halloween in 2017. “My son, his dad, is a Republican for Trump,” Debbie Robinson told the outlet. “Most of my family members are Republican. I don't know any single one who’s a Democrat. I'm just so confused.”
+
+09-15 NBC: Trump said U.S. military forces struck another Venezuelan boat this morning. Trump made the announcement on Truth Social, along with a video, saying the strike hit “confirmed narcoterrorists from Venezuela" while they were in international waters "transporting illegal narcotics ... headed to the U.S.” Trump said that the strike resulted in “3 male terrorists killed in action” and that no U.S. forces were harmed.
+
+09-15 NBC: Toward the end of the two-hour episode of the Charlie Kirk Show he hosted, Vance told listeners that they should notify employers of people who celebrate Kirk's murder. "When you see someone celebrating Charlie's murder, call them out, and hell, call their employer," Vance said from the White House. "We don't believe in political violence, but we do believe in civility, and there is no civility in the celebration of political assassination," he said.
+
+09-15 NBC: Secretary of State Marco Rubio said in an interview on Fox News that the United States should revoke visas of people who celebrate killings in an escalation of similar threats by members of the administration following Kirk's assassination. "We should not be giving visas to people who are going to come to the United States and do things like celebrate the murder, the execution, the assassination of a political figure. We should not," Rubio said. "And if they're already here, we should be revoking their visa.
+
+09-16 NYT: Robert Redford, the big-screen charmer turned Oscar-winning director whose hit movies often helped America make sense of itself and who, off screen, evangelized for environmental causes and fostered the Sundance-centered independent film movement, died early Tuesday morning at his home in Utah. He was 89.
+
+09-16 AP: Prosecutors brought a murder charge Tuesday against the man accused of assassinating Charlie Kirk and outlined evidence, including a text message confession to his partner and a note left beforehand saying he had the opportunity to kill one of the nation’s leading conservative voices “and I’m going to take it.”
+
+09-17 NYT: President Trump accused The New York Times and four of its reporters of defaming him ahead of the 2024 election, claiming that a series of articles sought to undermine his candidacy and disparage his reputation as a successful businessman. The lawsuit asked for damages of at least $15 billion.
+
+09-17 Deadline: There will be no more Jimmy Kimmel on TV for the foreseeable future after the late-night host offered his take on the reaction to the fatal shooting of Charlie Kirk. Kimmel offered his blunt assessment of the aftermath of Kirk’s death in his opening monologue on his September 15 show: “We hit some new lows over the weekend with the MAGA gang desperately trying to characterize this kid who murdered Charlie Kirk as anything other than one of them and doing everything they can to score political points from it,” the host said.
+
+09-17 In the wake of Charlie Kirk’s death, at least eight service members have been suspended from their jobs or investigated over comments made on social media about his killing, service officials confirmed to Task & Purpose.
+
+09-18 Trump: "Great News for America: The ratings challenged Jimmy Kimmel Show is CANCELLED. Congratulations to ABC for finally having the courage to do what had to be done," Trump wrote. "Kimmel has ZERO talent, and worse ratings than even Colbert, if that’s possible. That leaves Jimmy and Seth, two total losers, on Fake News NBC. Their ratings are also horrible. Do it NBC!!! President DJT"
+
+09-19 AP: Immigration enforcement officials have arrested almost 550 people as part of an operation in the Chicago area that launched a little less than two weeks ago, the Department of Homeland Security said Friday.
+
+09-19 AP: Estonia summoned a Russian diplomat to protest after three Russian fighter aircraft entered its airspace without permission Friday and stayed there for 12 minutes, the Foreign Ministry said. It happened just over a week after NATO planes downed Russian drones over Poland and heightened fears that the war in Ukraine could spill over. Foreign Minister Margus Tsahkna said Russia violated Estonian airspace four times this year “but today’s incursion, involving three fighter aircraft entering our airspace, is unprecedentedly brazen.”
+
+09-19 Axios: Rep. Alexandria Ocasio-Cortez (D-N.Y.) and her team are positioning her to run for president or the U.S. Senate in 2028, according to people familiar with her operation.
+
+09-19 NYP: Dallas’ two major airports were thrown into chaos Friday afternoon as the Federal Aviation Administration issued a ground stop after controllers “lost all radar and phone communications,” according to officials and reports.
+
+09-19 NYT: For the third time this month, the United States military attacked a boat in the Caribbean Sea and killed suspected drug smugglers, President Trump announced on social media on Friday. The attack killed three people aboard the vessel, which was in international waters, he said. Mr. Trump described them as “narcoterrorists” but did not offer more details.
+
+09-19 NYT: A federal judge in Florida on Friday threw out President Trump’s defamation suit against The New York Times four days after it was filed, calling the complaint “improper and impermissible” in its present form. The judge provided Mr. Trump’s lawyers with 28 days to file an amended complaint. The lawsuit, which asked for $15 billion in damages, accused The Times and four of its reporters, as well as the book publisher Penguin Random House, of disparaging Mr. Trump’s reputation as a successful businessman.
+
+09-20 Express: Moscow is preparing a "greyzone" attack on Poland before Christmas, a senior Russian military official has revealed. The warning, sent through an Eastern European ally during London’s DSEI arms fair last week, has triggered urgent discussions in the UK and US about the risk of a deniable strike aimed at fracturing NATO.
+
+09-20 NBC: The federal investigation into the assassination of conservative activist Charlie Kirk has yet to find a link between the alleged shooter, 22-year-old Tyler Robinson, and left-wing groups on which President Donald Trump and his administration have pledged to crack down after the killing, three sources familiar with the probe told NBC News. “Every indication so far is that this was one guy who did one really bad thing because he found Kirk’s ideology personally offensive,” one said.
+
+09-20 NBC: Disney is under siege from all sides. Within 48 hours of its decision to pull late-night host Jimmy Kimmel off the air indefinitely, the parent company of ABC has once again found itself at the center of a bitter political battle. The company now faces protests outside its studios, celebrities threatening to break ties and political pressure from Republicans and Democrats.
+
+09-21 Variety: Jimmy Kimmel and Disney are working toward reaching a compromise that would allow “Jimmy Kimmel Live” to return to ABC. The veteran host’s business and legal representatives are deep in discussions with Disney and ABC leaders in the hopes of finding a path to a compromise that would allow for the return of “Jimmy Kimmel Live,” according to three people with knowledge of the situation.
+
+09-21 NYT: President Trump called Charlie Kirk the “greatest evangelist for American liberty” during a memorial service for the slain political figure, joining a parade of speakers who hailed Mr. Kirk as a “martyr” and vowed to carry on his mission to implement an explicitly conservative Christian vision of the United States. The service mixed religious devotion with a raw battle cry intended to galvanize the political movement of the polarizing activist, who was assassinated less than two weeks ago. Mr. Trump capped an event that began with evangelical music and somber remembrances of Mr. Kirk and steadily progressed into a hard-line political event. The whiplash was most clear in the final two speakers: Minutes after Mr. Kirk’s widow, Erika, urged the crowd to love their enemies as her husband did, Mr. Trump said he could not agree. “I hate my opponent and I don’t want the best for them,” he said, adding “Sorry Erika.”
+
+09-22 Hollywood Reporter: Jimmy Kimmel is getting back on the air. The ABC late-night host is returning to broadcast on Tuesday following a brief-but-monumental suspension that sparked a national debate over the Trump Administration's pressure tactics and the modern limits and consequences of free speech. "Last Wednesday, we made the decision to suspend production on the show to avoid further inflaming a tense situation at an emotional moment for our country," ABC parent The Walt Disney Company said in a statement Monday. It is a decision we made because we felt some of the comments were ill-timed and thus insensitive. We have spent the last days having thoughtful conversations with Jimmy, and after those conversations, we reached the decision to return the show on Tuesday."
+
+09-22 BBC: Doctors in the US will soon be advised not to prescribe the pain reliever Tylenol to pregnant women, US President Donald Trump said, citing a disputed link between the drug and autism. Trump made the announcement on Monday in the Oval Office alongside Health Secretary Robert F Kennedy Jr. The US president claimed that taking paracetamol, the main ingredient in Tylenol, also known in the US as acetaminophen, "is no good" and that pregnant women should only take it in cases of extreme fever.
+
+09-23 NBC: Mysterious drones that forced the closure of a major European airport were part of a "serious attack," officials said Tuesday, hours after the latest unsettling incident over the continent's skies. Authorities did not immediately assign blame for the two to three large drones that shut Copenhagen Airport — Scandinavia's largest — Monday night. But police said a hybrid attack could not be ruled out, and Prime Minister Mette Frederiksen called it “the most serious attack on Danish critical infrastructure to date.”
+
+09-23 NYP: A massive illegal electronic device network capable of crippling cell towers and jamming 911 calls across New York City was uncovered by the Secret Service — just as world leaders prepared to descend on Manhattan for the UN General Assembly, officials said Tuesday. Investigators discovered the trove of devices — including more than 300 co-located SIM servers and 100,000 SIM cards – at multiple locations within 35 miles of the United Nations.
+
+09-23 Trump gives a speech at the United Nations General Assembly. While opening his speech, Trump told the room that the teleprompter wasn't working, saying that whoever was operating it was "in big trouble.” He scolded representatives for their countries' immigration policies: “I’m really good at this stuff. Your countries are going to hell." He described climate change as "the greatest con job ever perpetrated on the world.”
+
+09-23 Trump on Truth Social: “I think Ukraine, with the support of the European Union, is in a position to fight and WIN all of Ukraine back in its original form. With time, patience, and the financial support of Europe and, in particular, NATO, the original Borders from where this War started, is very much an option. Why not? Russia has been fighting aimlessly for three and a half years a War that should have taken a Real Military Power less than a week to win. This is not distinguishing Russia. In fact, it is very much making them look like “a paper tiger.” When the people living in Moscow, and all of the Great Cities, Towns, and Districts all throughout Russia, find out what is really going on with this War, the fact that it’s almost impossible for them to get Gasoline through the long lines that are being formed, and all of the other things that are taking place in their War Economy, where most of their money is being spent on fighting Ukraine, which has Great Spirit, and only getting better, Ukraine would be able to take back their Country in its original form and, who knows, maybe even go further than that! Putin and Russia are in BIG Economic trouble, and this is the time for Ukraine to act.”
+
+09-23 BBC: President Emmanuel Macron used a UN meeting to say that France will join the UK, Canada and Australia in formally recognising a Palestinian state. "We can no longer wait," he said, adding that recognition is a necessary step to break the spiral of violence and secure peace.
+
+09-23 During a bilateral meeting with Ukrainian President Volodymyr Zelenskyy at the United Nations General Assembly meeting, President Donald Trump turned Zelenskyy’s head by calling on NATO countries to shoot down any Russian jets that violate their airspace.
+
+09-24 NYT: Jimmy Kimmel broke his silence on Tuesday night in an emotional return to ABC’s airwaves, by turns defiant, joking and somber as he addressed the controversy that temporarily sidelined his late-night show and set off a national debate over free speech.
+
+09-24 A sniper died from a self-inflicted gunshot early Wednesday morning after he shot three ICE detainees at a Dallas ICE facility from a rooftop, according to law enforcement. Officials confirmed two of the ICE detainees have died. The third was rushed to a hospital in critical condition. Police sources say the sniper, identified as a white male, was armed with a rifle on a roof. He shot himself as agents approached him.
+
+09-24 FBI Director Kash Patel posted a photo of unspent bullets from the deadly Dallas ICE facility shooting to social media, providing new details about the attack. The evidence, which included unspent shell casings inscribed with the words 'ANTI ICE,' indicates an "ideological motive" behind the attack, Patel said.
+
+09-24 AP: Hundreds of federal employees who lost their jobs in Elon Musk’s cost-cutting blitz are being asked to return to work. The General Services Administration has given the employees — who managed government workspaces — until the end of the week to accept or decline reinstatement, according to an internal memo obtained by The Associated Press. Those who accept must report for duty on Oct. 6 after what amounts to a seven-month paid vacation, during which time the GSA in some cases racked up high costs — passed along to taxpayers — to stay in dozens of properties whose leases it had slated for termination or were allowed to expire.
+
+09-24 Former FBI Director James Comey is expected to be indicted on criminal charges in the coming days in federal court in Virginia, MSNBC reported Wednesday. The expected indictment comes on the heels of a top prosecutor resigning under pressure after opposing the filing of charges against Comey, who for years has been a target of President Donald Trump’s ire.
+
+09-25 Government shutdown looming; budget deadline is the end of this month.
+
+09-25 Denmark is considering triggering Nato’s Article 4 after multiple drones were deployed on four of its airports. Justice minister Peter Hummelgaard described the incursions as a ‘hybrid attack’ intended to spread fear. Separately, minister of defence, Troels Lund Poulsen, said that no one has been found responsible for the incidents, but ‘it certainly doesn’t look like a coincidence, but looks systematic’. He told a press conference this morning: ‘Everything indicates that it is a professional actor.’
+
+09-25 WaPo: Defense Secretary Pete Hegseth has ordered hundreds of the U.S. military’s generals and admirals to gather on short notice — and without a stated reason — at a Marine Corps base in Virginia next week, sowing confusion and alarm.
+
+09-25 NBC: President Donald Trump has demanded an investigation into what he called a “triple sabotage” at the United Nations General Assembly, including his allegation that an escalator was deliberately halted while he and first lady Melania Trump were riding it. The U.N. says the escalator was likely stopped when a White House videographer accidentally triggered a safety mechanism.
+
+09-26 AP: James Comey was charged Thursday with lying to Congress in a criminal case filed days after President Donald Trump appeared to urge his attorney general to prosecute the former FBI director and other perceived political enemies. The indictment makes Comey the first former senior government official involved in one of Trump’s chief grievances, the long-concluded investigation into Russian interference in the 2016 election, to face prosecution.
+
+09-26 CNN: Senior Justice Department leaders are advocating for a charge against President Donald Trump’s former adviser-turned-critic John Bolton this week, according to two sources familiar with the investigation. It comes as Trump has called for the department to prosecute his political opponents, and as Justice Department prosecutors are looking at charging another adversary, former FBI Director Jim Comey.
+
+09-26 Bloomberg: European diplomats warned the Kremlin this week that NATO is ready to respond to further violations of its airspace with full force, including by shooting down Russian planes, according to officials familiar with the exchange.
+
+09-26 U.S. military officials are drawing up options to target drug traffickers inside Venezuela, and strikes within that country’s borders could potentially begin in a matter of weeks, four sources told NBC News.
+
+09-26 Official Israeli Prime Minister X account: “In an unprecedented action, Prime Minister Benjamin Netanyahu, in a live broadcast from the UN building in New York, has announced that the IDF took control of the telephones of Gaza residents and Hamas members, and that his speech is now being broadcast live via the telephones.”
+
+09-27 Defense Secretary Pete Hegseth ordered hundreds of generals to travel from around the world to hear him make a short speech on military standards and the “warrior ethos,” multiple people familiar with the event told The Washington Post.
+
+09-27 France24: Unidentified drones flew over Danish military sites including its biggest base during the night, the latest in a slew of sightings officials have called a "hybrid attack," hinting at possible Russian involvement.
+
+09-27 WSJ: President Trump said he was directing the Pentagon to send troops to Portland, Ore., to protect federal facilities, escalating his push to deploy the military in U.S. cities. Trump said in a post on Truth Social on Saturday he was ordering Defense Secretary Pete Hegseth to use the military to protect Immigration and Customs Enforcement facilities, which he said were “under siege from attack by antifa,” a loose network of antifascist protesters that Trump recently called a terror group.
+
+09-28 AP: A gunman opened fire inside a Church of Jesus Christ of Latter-day Saints chapel in Michigan during a Sunday service and set the building ablaze, killing at least four people and injuring eight others. Police shot and killed the suspect, authorities said. Hundreds of people were inside the church in Grand Blanc Township when a man rammed a four-door pickup with two American flags in the truck bed through the front door, then got out of the vehicle and started shooting, Police Chief William Renye told reporters. Investigators believe he “deliberately” set the building on fire, Renye said. The bodies of two of the victims were found as authorities searched the debris in the church, Renye said, emphasizing the search was continuing and that more victims could be found.
+
+!['Aftermath of the Michigan Mormon church shooting.'](/everything-2025/michigan-mormon-church-shooting.jpg)
+
+09-28 The same day as the Mormon church shooting in Grand Blanc, Russell M. Nelson, the oldest-ever president of The Church of Jesus Christ of Latter-day Saints, died Saturday night at the age of 101, church officials announced.
+
+09-28 AP: A mass shooting that shattered the evening tranquility of a picturesque, seaside town in North Carolina was a “highly premeditated” attack that left three people dead and five injured, police said Sunday. The suspect who allegedly carried out the attack on a waterfront bar was in custody. Nigel Edge, 40, of Oak Island is accused of opening fire Saturday night from a boat into a crowd gathered at the American Fish Company in Southport, a historic port town about 30 miles (48 kilometers) south of Wilmington, Police Chief Todd Coring said. Authorities said Edge piloted a small boat close to shore, which was lined with bars and restaurants, stopped briefly and fired. He then sped away. Roughly half an hour after the shooting, a U.S. Coast Guard crew spotted a person matching the suspect’s description pulling a boat from the water at a public ramp on Oak Island. The person was detained and turned over to Southport police for questioning, officials said.
+
+09-29 Both of the shootings today were committed by Iraq War veterans.
+
+09-29 US Sun: NATO has ramped up its air defences after mysterious drones continue to menace military bases and airports across Europe. More drones were spotted over multiple Danish military establishments last night, while multiple flights were diverted from an airport on a Spanish island after similar sightings this morning.
+
+09-29 AP: President Donald Trump and Israeli Prime Minister Benjamin Netanyahu said Monday they’ve agreed to a plan to end the war in Gaza but it’s unclear whether Hamas will accept the terms. The plan has been presented to Hamas, which is reviewing it in ‘good faith’, an official told AP. Trump laid out a 20-point plan for ending the Israel-Hamas war and establishing a postwar Gaza governance. The plan does not require people to leave Gaza and calls for the war to end immediately if both sides accept it.
+
+09-29 NYT: The former Marine accused of killing four people in a fiery attack on a Michigan church held a deep grudge against the Church of Jesus Christ of Latter-day Saints, according to two lifelong friends and other people who knew him. The animosity, the friends said, stemmed from a breakup with a religious girlfriend over a decade ago and led the man to rant about the church at his best friend’s wedding, refer to it as the Antichrist and, just days before the attack, spew invective against Mormons to a canvassing politician.
+
+09-30 AP: Defense Secretary Pete Hegseth summoned hundreds of U.S. military officials to an in-person meeting Tuesday to announce directives for troops that include “gender-neutral” or “male-level” standards for physical fitness as well as an end to “woke” culture in the military. “The era of politically correct, overly sensitive don’t-hurt-anyone’s-feelings leadership ends right now at every level,” Hegseth said. Hegseth used the platform to slam physical fitness and grooming standards, environmental policies and transgender troops while touting the loosening of disciplinary rules and weakening hazing protections. Hegseth said military leaders should “do the honorable thing and resign” if they don’t like his new approach.
+
+09-30 Bloomberg: President Donald Trump told top military brass that the US is fighting an “invasion from within,” as he used a highly unusual gathering of officers stationed around the world to deliver a largely political speech that highlighted border security and rooting out “woke” culture. “After spending trillions of dollars defending the borders of foreign countries, with your help, we’re defending the borders of our country,” Trump said on Tuesday at Marine Corps Base Quantico in Virginia. “It’s the enemy from within, and we have to handle it before it gets out of control,” he added. “We should use some of these dangerous cities as training grounds for our military,” Trump said.
+
+09-30 AP: A partisan standoff over health care and spending is threatening to trigger the first U.S. government shutdown in almost seven years, with Democrats and Republicans in Congress unable to find agreement even as thousands of federal workers stand to be furloughed or laid off. The government will shut down at 12:01 a.m. Wednesday if the Senate does not pass a House measure that would extend federal funding for seven weeks while lawmakers finish their work on annual spending bills.
+
+09-30 NBC: President Donald Trump announced Tuesday that his administration has reached a deal with Pfizer for it to voluntarily sell its drugs at lower prices to Medicaid patients. As part of the deal, Trump said, Pfizer will sell some of its drugs on a new “direct to consumer” website called “TrumpRx.” Trump said the website would be operated by the federal government, but offered few details about how the program would work.
+
+10-01 AP: Plunged into a government shutdown, the U.S. is confronting a fresh cycle of uncertainty after President Donald Trump and Congress failed to strike an agreement to keep government programs and services running by Wednesday’s deadline. Roughly 750,000 federal workers are expected to be furloughed, some potentially fired by Trump’s Republican administration. Many offices will be shuttered, perhaps permanently, as Trump vows to “do things that are irreversible, that are bad” as retribution. His deportation agenda is expected to run full speed ahead, while education, environmental and other services sputter. The economic fallout is expected to ripple nationwide.
+
+10-02 Fox: At least two victims have died and three others are in a serious condition after a car and knife attack outside a synagogue in Manchester in the United Kingdom, authorities said. The attack came on Yom Kippur, the holiest day in the Jewish calendar which ends later today. Police said they cannot currently confirm if the suspect is dead due to safety issues surrounding suspicious items on his person. The bomb disposal unit has been called and is now at the scene.
+
+10-02 NYT: President Trump has decided that the United States is engaged in a formal “armed conflict” with drug cartels his team has labeled terrorist organizations and that suspected smugglers for such groups are “unlawful combatants,” the administration said in a confidential notice to Congress this week.
+
+10-02 Mediaite: Paramount Skydance will be officially acquiring The Free Press and hiring its founder Bari Weiss as editor in chief of its CBS News division, with the deal to be announced this coming Monday, according to a report by Puck’s Dylan Byers.
+
+10-03 AP: President Donald Trump is openly embracing the conservative blueprint he desperately tried to distance himself from during the 2024 campaign, as one of its architects works to use the government shutdown to accelerate his goals of slashing the size of the federal workforce and punishing Democratic states. In a post on his Truth Social site Thursday morning, Trump announced he would be meeting with his budget chief, “Russ Vought, he of PROJECT 2025 Fame, to determine which of the many Democrat Agencies, most of which are a political SCAM, he recommends to be cut, and whether or not those cuts will be temporary or permanent.”
+
+10-03 Trump posts a collage of Democratic leaders on Truth Social with this text: “The Party of Hate, Evil, and Satan. The Democratic Party is Dead! They have no leadership! no message! no hope! their only message for America is to hate Trump!”
+
+!['A collage of Democratic leaders posted by Trump.'](/everything-2025/trump-democrat-satan-meme.jpg)
+
+10-03 CNN: The US military carried out another strike on a boat operating in the Caribbean officials deemed to be a “narco-trafficking vessel” on Friday morning, Secretary of Defense Pete Hegseth announced in a social media post. The strike killed all four people who were on board, Hegseth said.
+
+10-03 JPost: Hamas said that it would release all of the hostages in an effort to re-enter negotiations, in a Friday statement. Hamas officials later told international media that it would likely take longer than the 72 hours outlined in the US proposal to release them. Hamas gave mediators its response to US President Donald Trump's plan for ending the Gaza war earlier Friday evening and promised that it would approve transferring the power of the Gaza Strip over to a Palestinian governing body that would be elected "based on Palestinian national consensus and with Arab and Islamic support."
+
+10-03 The Hill: Senate Democrats and Republicans on Friday failed to pass competing bills to fund the government, extending the shutdown into next week. The measures were expected to fail. Shortly after the failed votes, the House GOP said it would extend its recess through Oct. 13, a move to put pressure on Senate Democrats.
+
+10-04 NYT: On Friday, responding to a new ultimatum from Mr. Trump, Hamas announced that it was ready to release all the hostages. But it said nothing about how soon it would do so, demurred on laying down its arms, and said it wanted to “discuss the details” of Mr. Trump’s plan. To Senator Lindsey Graham, a close ally of Mr. Netanyahu’s, this was “in essence, a rejection by Hamas” of the president’s proposal, he wrote on social media. To Michael Herzog, Mr. Netanyahu’s former ambassador to the United States, it was “a ‘no’ cloaked as a ‘yes,’” he said in an interview. Yet Mr. Trump embraced the Hamas statement as an unqualified “yes.” “Based on the Statement just issued by Hamas, I believe they are ready for a lasting PEACE,” he wrote on social media. “Israel must immediately stop the bombing of Gaza, so that we can get the Hostages out safely and quickly!”
+
+10-05 Axios: When Hamas came back with a "yes, but" to President Trump's Gaza peace proposal on Friday, Trump called Israeli Prime Minister Benjamin Netanyahu to discuss what he saw as good news. Netanyahu felt differently. "Bibi told Trump this is nothing to celebrate, and that it doesn't mean anything," a U.S. official with knowledge of the call told Axios. Trump fired back: "I don't know why you're always so f***ing negative. This is a win. Take it."
+
+10-06 NYP: President Trump is deploying 400 Texas National Guard troops to Illinois, Oregon, and other states as swarms of anti-ICE protesters continue to clash with federal agents, Gov. JB Pritzker said Sunday night. The Illinois Democrat blasted Trump’s “invasion” hours after the president mobilized 300 California National Guard members to Portland, where unrest has raged for over 100 consecutive days outside an immigration detention center — a scene that has been playing out in Chicago since September.
+
+10-06 NYT: With Mr. Trump and lawmakers having made no progress on a deal that would reopen the government, one thing was clear as the shutdown headed into its second workweek: There was little sense of urgency in Washington about cleaning up a mess that has thousands of federal workers facing furloughs and possible layoffs, and could disrupt critical federal programs. It all reflects the reality of two parties so convinced that they have the political advantage in their partisan battle that a shutdown has seemed inevitable for weeks, and a quick resolution feels out of reach.
+
+10-06 Politico: President Donald Trump on Monday said he would consider using the Insurrection Act to deploy the military if federal courts prevented him from deploying the National Guard to protect federal buildings and conduct law enforcement operations. The comments came a day after a federal judge blocked the president from sending National Guard troops to Portland, Oregon, which Trump claims has been taken over by left-wing “domestic terrorists.” Trump told reporters in the Oval Office he did not yet see the need to use the Insurrection Act, but “if I had to enact it, I’d do it, if people were being killed and courts were holding us up, or governors or mayors were holding us up.” “You look at what’s happening with Portland over the years, it’s a burning hell hole,” Trump added. “And then you have a judge that lost her way that tries to pretend that there’s no problem.”
+
+10-08 NYP: A 29-year-old Biden-supporting Uber driver obsessed with dystopian imagery, “despair and bitterness” is charged with “maliciously” sparking the Palisades Fire, authorities said Wednesday — nine months after the most destructive wildfire in Los Angeles history erupted. Jonathan Rinderknecht, 29, is accused of setting a brush fire Jan. 1 that was put out, but then smoldered unnoticed underground for days before igniting the raging Palisades inferno, which left 12 people dead and caused about $150 billion in damages.
+
+10-09 AFP: Thousands of jubilant Israelis gathered in a Tel Aviv square Thursday, hopeful for the return of hostages held in Gaza, after two years of fear and worry. Many wore stickers reading "They're coming back", waving Israeli and US flags and clutching photos of the hostages after Israel and Hamas reached a hostage release and truce deal in a major step towards ending the war.
+
+10-09 NBC: New York Attorney General Letitia James, a Democrat who has clashed with President Donald Trump, was indicted Thursday by a federal grand jury in Virginia.10-10 AP: President Donald Trump was passed over for the Nobel Peace Prize on Friday despite jockeying from his fellow Republicans, various world leaders and — most vocally — himself. Venezuelan opposition leader María Corina Machado was awarded the prize. The Norwegian Nobel Committee said it was honoring Machado “for her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy.” The White House responded bitterly to the news of the award Friday, with communications director Steven Cheung saying members of “the Nobel Committee proved they place politics over peace” because they didn’t recognize Trump, especially after the Gaza ceasefire deal his administration helped strike this week.
+
+10-10 CNBC: Stocks moved decidedly lower in a rapid move on Friday after President Donald Trump threatened higher tariffs on China, accusing the country of ‘becoming very hostile’ with its restrictions on rare earth metals, a key resource for the tech and defense industries. “I was to meet President Xi in two weeks, at APEC, in South Korea, but now there seems to be no reason to do so,” said Trump, in a post on Truth Social. “One of the policies that we are calculating at this moment is a massive increase of tariffs on Chinese products coming into the United States of America.”
+
+10-10 CBS: Defense Secretary Pete Hegseth on Friday announced a finalized agreement that will allow the Qatari Emiri Air Force to build a facility at the Mountain Home Air Force Base in Idaho. There are no foreign military bases in the U.S., but some foreign militaries do maintain a presence for training.
+
+10-12 Daily Mail: Hamas is set to release Israeli hostages from Gaza 'any moment now,' US Vice President JD Vance announced Sunday morning. A temporary truce began on Friday, with the remaining 48 Israeli hostages set to be released on Monday following a 72-hour deadline. Israel believes 20 of them are alive.
+
+10-12 AP: A mass shooting at a crowded bar on an idyllic South Carolina island has left four people dead and at least 20 injured, officials said. The shooting occurred early Sunday at Willie’s Bar and Grill on St. Helena Island, officials said. A large crowd was at the scene when sheriff’s deputies arrived and found several people suffering from gunshot wounds.
+
+10-13 AP: Hamas released all 20 of the last living hostages on Monday, the Israeli military said. Buses carrying dozens of freed Palestinian prisoners drove to the West Bank city of Ramallah and the Gaza Strip, the Hamas-run Prisoners Office said. Israel has released more than 1,900 prisoners as part of the ceasefire deal. U.S. President Donald Trump is in the region to discuss the U.S.-proposed deal and postwar plans with other leaders. A surge of humanitarian aid was expected into famine-stricken Gaza, where hundreds of thousands of people have been left homeless.
+
+10-13 Slate: The Georgia congresswoman whom Democrats spent years portraying as the wild-eyed manifestation of the MAGA fringe is suddenly singing a new tune. Marjorie Taylor Greene has broken with her party and Trump on a number of high-profile occasions this year, calling the situation in Gaza a “genocide” and criticizing Trump’s bombing of Iran. In perhaps her most high-profile move, she was one of a few Republicans to sign the House discharge petition forcing a vote to release all the Epstein files. That, especially, is not going over well with the White House. As if the trend-piece sirens weren’t already blaring in newsrooms, Greene made another splash this week when she defended extending expiring Obamacare subsidies, the very issue over which Democrats are waging this shutdown.
+
+10-14 NYT: President Trump will host Javier Milei, the leader of Argentina, at the White House on Tuesday, just days after the United States agreed to move ahead with a major bailout of the Latin American nation. The face-to-face meeting between the political allies comes after the Trump administration agreed to provide Argentina a $20 billion lifeline that would come in the form of a currency swap with the nation’s central bank, according to Treasury Secretary Scott Bessent. The details of the bailout remain unclear, but it could provide a political boost for Mr. Milei, who is hoping to stave off a financial crisis and a political disaster for his party.
+
+10-14 POLITICO publishes report on leaked Young Republicans group chat in which they “called Black people monkeys, repeatedly used slurs for gay, Black, Latino and Asian people, and jokingly celebrated Adolf Hitler.” Democrats condemn; JD Vance defends.
+
+10-14 Telegraph: Hamas has carried out a mass execution in the streets of Gaza as part of a series of bloody reprisals following the withdrawal of Israeli forces from key urban areas. Footage has emerged appearing to show around eight kneeling, blindfolded men, bearing signs of beatings, being shot dead in front of a crowd.
+
+10-14 Daily Beast: President Donald Trump complained in a late-night social media post that TIME magazine had published a photo of him that “may be the Worst of All Time” to accompany a fawning article about the Gaza ceasefire deal. The president acknowledged that the piece—which ran on the cover with the title “His Triumph”—was “a relatively good story about me,” but demanded to know why the magazine had run such a bad picture of his hair. “They ‘disappeared’ my hair, and then had something floating on top of my head that looked like a floating crown, but an extremely small one,” Trump wrote at about 1:30 a.m. Washington time. “Really weird!” he continued. “I never liked taking pictures from underneath angles, but this is a super bad picture, and deserves to be called out. What are they doing, and why?”
+
+!['A TIME magazine cover lambasted by Trump.'](/everything-2025/trump-time-magazine-cover.jpg)
+
+10-15 The Verge: OpenAI will soon allow “erotica” for ChatGPT users who verify their age on the platform. In an X post on Tuesday, OpenAI CEO Sam Altman said the company will add support for mature conversations when it launches age-gating in December.
+
+10-15 CNN: At least one US military strike in the Caribbean over the last two months targeted Colombian nationals on a boat that had left from Colombia, according to two people briefed by the Pentagon about the strikes. The deliberate targeting of Colombians, which has not been previously reported, suggests that the US military’s campaign against suspected narcotics trafficking groups in the Caribbean is wider than previously believed. The Trump administration has produced a classified legal opinion that justifies lethal strikes against a secret and expansive list of cartels and suspected drug traffickers, CNN has reported.
+
+10-15 Politico: Two more members of a Young Republican group chat strewn with racist epithets and hateful jokes stepped down from their jobs Tuesday after POLITICO published an exclusive report on the Telegram exchanges. Peter Giunta’s time working with New York Assemblymember Mike Reilly “has ended,” the Republican lawmaker said. Giunta served as chair of the New York State Young Republicans when the chat took place. Joseph Maligno, who previously identified himself as the general counsel for that group, is no longer an employee of the New York State Unified Court System, a courts spokesperson confirmed.
+
+10-15 NYT: The Trump administration has secretly authorized the C.I.A. to conduct covert action in Venezuela, according to U.S. officials, stepping up a campaign against Nicolás Maduro, the country’s authoritarian leader.
+
+10-15 USA Today: President Donald Trump said he is considering U.S. military strikes on land targets to combat the flow of drugs from Venezuelan cartels into the United States after five recent maritime attacks on alleged drug-smuggling boats. "We are certainly looking at land now because we've got the sea very well under control," Trump told reporters on Oct. 15.
+
+10-16 WaPo: The U.S. military’s elite Special Operations aviation unit appears to have flown in Caribbean waters less than 90 miles from the coast of Venezuela in recent days, according to a visual analysis by The Washington Post. The helicopters were engaged in training exercises, according to a U.S. official, that could serve as preparation for expanded conflict against alleged drug traffickers, including potentially missions inside Venezuela.
+
+10-16 BBC: US President Donald Trump wants to build a triumphal arch across from the Lincoln Memorial in Washington DC, the latest in his efforts to make over the capital city in his style. The so-called Arc de Trump would commemorate the country's 250th anniversary next year and is reportedly being privately funded by Trump's supporters.
+
+10-16 NYT: The military commander overseeing the Pentagon’s escalating attacks against boats in the Caribbean Sea that the Trump administration says are smuggling drugs said on Thursday that he was stepping down. The officer, Adm. Alvin Holsey, is leaving his job as head of the U.S. Southern Command, which oversees all operations in Central and South America, even as the Pentagon has rapidly built up some 10,000 forces in the region in what it says is a major counterdrug and counterterrorism mission. It was unclear why Admiral Holsey is suddenly departing, less than a year into what is typically a three-year job, and in the midst of the biggest operation in his 37-year career. But one current and one former U.S. official, both of whom spoke on the condition of anonymity to discuss personnel matters, said that Admiral Holsey had raised concerns about the mission and the attacks on the alleged drug boats.
+
+10-16 CNN: President Donald Trump on Thursday warned that if Hamas keeps killing people in Gaza, “we will have no choice but to go in and kill them,” marking a sharp escalation of his rhetoric against the group as he tries to maintain a ceasefire in its conflict with Israel. The threat – just three days after the deal was signed in the Middle East – came amid reports that Hamas fighters have used the truce to quickly and violently reassert control over the Gaza Strip, targeting Palestinians who they deemed to have collaborated with Israeli forces during the war.
+
+10-16 CNN: John Bolton, President Donald Trump’s former national security adviser-turned-adversary, was indicted by a federal grand jury in Maryland on Thursday. Bolton, the third high-profile Trump political enemy to be indicted in less than a month, now faces eight counts of transmission of national defense information and 10 counts of retention of national defense information.
+
+10-17 AP: The U.S. has seized survivors after a military strike Thursday on a suspected drug-carrying vessel in the Caribbean, the first since President Donald Trump began launching deadly attacks in the region last month, a defense official and another person familiar with the matter said Friday. It is believed to be at least the sixth strike in the waters off Venezuela since early September, and the first to result in survivors who were picked up by the U.S. military. It was not immediately clear what would be done with the survivors, who the people said were being held on a U.S. Navy vessel.
+
+10-17 President Trump drops the 'F bomb' while discussing Nicolás Maduro of Venezuela. Reporter: "It has been reported that Maduro offered everything in his country, all the natural resources..." Trump: "You're right. You know why? Because he doesn't want to f*ck around with the United States."
+
+10-17 NYT: President Trump on Friday commuted the sentence of former Representative George Santos, the disgraced Republican fabulist from New York who was sentenced to more than seven years in prison for financial fraud. In a social media post, Mr. Trump called Mr. Santos “somewhat of a ‘rogue’” but said that he believed that the former congressman’s sentence was excessive given the nature of his crime. The president also suggested he’d been moved by Mr. Santos’s accounts of being in solitary confinement, which he had published in a local Long Island newspaper. “George has been in solitary confinement for long stretches of time and, by all accounts, has been horribly mistreated,” Mr. Trump wrote on social media. “Therefore, I just signed a Commutation, releasing George Santos from prison, IMMEDIATELY. Good luck George, have a great life!”
+
+10-18 NYT: The Marines plan to fire 155-millimeter artillery shells over a major freeway in Southern California on Saturday as part of a demonstration at Camp Pendleton to celebrate the Marine Corps’ 250th anniversary. The plans to fire over the freeway triggered outrage by Gov. Gavin Newsom late Friday night after his office had been informed days earlier that the celebration would not involve firing munitions across Interstate 5, a heavily traveled corridor between Los Angeles and San Diego. He criticized President Trump and said the lack of coordination among state, federal and local officials was creating a dangerous situation. The artillery demonstration, to be attended by Vice President JD Vance, Secretary of Defense Pete Hegseth and military officials, will take place on the same day that anti-Trump activists plan to hold “No Kings” protests across the country, including in Southern California.
+
+10-18 AP: Protesting the direction of the country under President Donald Trump, people gathered Saturday in the nation’s capital and communities across the U.S. for “ No Kings ” demonstrations — what the president’s Republican Party is calling “Hate America” rallies. This is the third mass mobilization since Trump’s return to the White House and comes against the backdrop of a government shutdown that not only has closed federal programs and services, but is testing the core balance of power as an aggressive executive confronts Congress and the courts in ways that organizers warn are a slide toward American authoritarianism.
+
+10-19 Telegraph: Three suspects are on the run after breaking into Paris’s Louvre museum and stealing pieces from Napoleon’s jewellery collection worth millions of pounds. Thieves stole nine pieces from Napoleon and the Empress’s jewellery collection including a necklace, a brooch and a tiara, according to Le Parisien.
+
+10-19 Yeshiva World News: The IDF launched a new wave of airstrikes against Hamas targets in southern Gaza on Sunday night, hours after Palestinian gunmen attacked Israeli troops in Rafah in a “blatant violation” of the ceasefire. Defense officials vowed retaliation after the incident, which came amid growing concerns that renewed violence could unravel the fragile truce in place since earlier this year.
+
+10-19 NYT: President Gustavo Petro of Colombia accused the United States of murdering an innocent fisherman in an attack on a boat American authorities claimed was carrying illicit drugs, prompting President Trump to declare on Sunday that he would slash assistance to Colombia, one of Washington’s top aid recipients in Latin America.
+
+10-20 FT: Donald Trump urged Volodymyr Zelenskyy to accept Russia’s terms for ending its war in a volatile White House meeting on Friday, warning that Vladimir Putin had said he would “destroy” Ukraine if it did not agree. The meeting between the US and Ukrainian presidents descended many times into a “shouting match”, with Trump “cursing all the time”, people familiar with the matter said. They added that the US president tossed aside maps of the frontline in Ukraine, insisted Zelenskyy surrender the entire Donbas region to Putin, and repeatedly echoed talking points the Russian leader had made in their call a day earlier. Though Ukraine ultimately managed to swing Trump back to endorsing a freeze of the current front lines, the acrimonious meeting appeared to reflect the capricious nature of Trump’s position on the war and his willingness to endorse Putin’s maximalist demands.
+
+10-20 Guardian: A live artillery shell exploded prematurely during a marines live-fire demonstration that launched over a southern California freeway in celebration of the military branch’s 250th anniversary, raining shrapnel down on a California Highway Patrol vehicle and a motorcycle that was part of JD Vance’s detail, according to a police report.
+
+10-20 AP: A problem at Amazon’s cloud computing service disrupted internet use around the world early Monday, taking down dozens of online services, including social media site Snapchat, the Roblox and Fortnite video games and chat app Signal. About three hours after the outage began, Amazon Web Services said it was starting to recover from the problem.
+
+10-20 Demolition crews on Monday began tearing down part of the White House to build President Donald Trump’s long-desired ballroom despite his pledge that construction of the $250 million addition wouldn’t “interfere” with the existing building. Construction teams were demolishing a portion of the East Wing, with a backhoe ripping through the structure, according to a photo shared with The Washington Post and two people who witnessed the activity and spoke on the condition of anonymity to describe it.
+
+!['The beginning of the White House East Wing demolition.'](/everything-2025/trump-east-wing-white-house-demolition.jpg)
+
+10-20 TMZ: Donald Trump is considering commuting Diddy's sentence as early as this week, according to a high-ranking White House official. According to our source, the President is "vacillating" on a commutation. We're told some of the W.H. staff are urging Trump not to commute the sentence. But, our source states the obvious -- "Trump will do what he wants," and we're told Trump could set Diddy free as early as this week.
+
+10-21 NYT: President Trump is demanding that the Justice Department pay him about $230 million in compensation for the federal investigations into him, according to people familiar with the matter, who added that any settlement might ultimately be approved by senior department officials who defended him or those in his orbit. The situation has no parallel in American history, as Mr. Trump, a presidential candidate, was pursued by federal law enforcement and eventually won the election, taking over the very government that must now review his claims. It is also the starkest example yet of potential ethical conflicts created by installing the president’s former lawyers atop the Justice Department.
+
+10-22 President Trump’s plan to add an expansive ballroom to the White House will mean the demolition of the entire East Wing, which was expected to be fully torn down by this weekend, according to a senior administration official.
+
+10-23 Newsweek: Federal authorities on Thursday unveiled a sweeping criminal case linking NBA figures and organized crime to a years-long illegal gambling and fraud operation. FBI Director Kash Patel described the scheme as “mind-boggling,” involving tens of millions of dollars and implicating four of the five major Mafia families. Patel said the case targets “a wide sweeping criminal enterprise” involving the NBA and La Cosa Nostra. More than 30 individuals have been arrested across 11 states.
+
+10-23 Bloomberg: President Donald Trump said “the land is going to be next” in his campaign to halt the flow of drugs into the US from Venezuela, the clearest indication yet that he’s preparing to broaden strikes that have so far been limited to targets at sea.
+
+10-24 CBS: Defense Secretary Pete Hegseth said Friday that the U.S. carried out another strike on a vessel allegedly operated by the Venezuelan gang Tren de Aragua that he said was trafficking drugs in the Caribbean Sea. Hegseth said on social media that the strike killed all six men who were on board, and took place in international waters. He said it is the first strike to take place at night.
+
+10-24 CNN: Venezuela has 5,000 Russian-made anti-aircraft missiles in “key air defense positions,” its President Nicolás Maduro claimed on Wednesday, amid growing tension over the United States’ military deployment in the Caribbean.
+
+10-24 Defense Secretary Pete Hegseth has ordered an aircraft carrier strike group currently stationed in Europe to the Caribbean region amid a massive buildup of US military forces in the region. The Gerald R. Ford strike group and its associated air wing are being sent to “dismantle Transnational Criminal Organizations and counter narco-terrorism,” Pentagon Press Secretary Sean Parnell said in a statement posted on X.
+
+10-25 Newsweek: Venezuela’s president Nicolas Maduro has accused Donald Trump of warmongering after he deployed the U.S. Navy's largest aircraft carrier, USS Gerald R Ford, to the Caribbean. Maduro told his country’s state media that the U.S. was "inventing a new eternal war" as the Trump administration ramps up an operation to target alleged drug smuggling boats.
+
+10-25 NYT: Former Vice President Kamala Harris said that her time in politics has not come to an end, offering her strongest indication to date that she would consider a third presidential run. In an interview with the BBC, Ms. Harris said she remained confident a woman will become president one day and that it could “possibly” be her. “I am not done,” she said. “I have lived my entire career as a life of service and it’s in my bones.”
+
+10-27 WSJ: President Javier Milei scored a decisive political win Sunday, strengthening his position in Argentina's Congress and securing a lifeline for his audacious free-market revolution backed by President Trump. With more than 99% of votes counted, Milei's Freedom Advances party won almost 41% of the national vote, more than doubling its representation in Congress.
+
+10-27 Miami Herald: The Nicolás Maduro regime said Sunday Venezuela has captured a group of alleged mercenaries with ties to the U.S. Central Intelligence Agency and accused Washington and Trinidad and Tobago of coordinating military exercises intended to provoke an armed confrontation in the Caribbean. In a statement released by Vice President Delcy Rodríguez, the socialist government said the arrests revealed what it described as a “false-flag operation” planned from waters bordering Trinidad and Tobago, or from Trinidadian or Venezuelan territory, “to generate a full-scale military confrontation” against Venezuela.
+
+10-27 BBC: US President Donald Trump has not ruled out the possibility of seeking a third term for the White House, saying he would "love to do it". But Trump rejected the possibility of running for vice-president in 2028 - an idea floated by some supporters as a way for him to circumvent the US constitution that bars the president from running for a third term. Speaking to reporters during his trip to Asia, Trump described the idea as "too cute" and said it "wouldn't be right".
+
+10-28 AccuWeather: A dire situation is unfolding in the Caribbean as Category 5 Hurricane Melissa is forecast to make a right, northward turn and cross Jamaica like a giant buzzsaw and firehose at the same time.
+
+10-28 Yeshiva World News: Prime Minister Benjamin Netanyahu has ordered the IDF to carry out immediate, powerful strikes in the Gaza Strip. The directive comes after an incident in Rafah earlier today in which terrorists opened fire on IDF forces. At least one soldier was seriously wounded in the attack and evacuated for medical treatment. The escalation follows mounting tensions over the handling of hostages’ remains. Last night Hamas returned remains that Israel says were already buried, yet claimed they were a newly recovered body — fueling Israeli outrage and contributing to today’s security response.
+
+10-28 NYT: Defense Secretary Pete Hegseth said the U.S. military had destroyed four more vessels in the eastern Pacific Ocean on Monday, killing 14 people — the biggest one-day toll since the campaign began last month. One person survived, he said, and Mexican officials had “assumed responsibility” for the rescue. Mr. Hegseth did not provide evidence for the administration’s contention that the vessels were smuggling drugs, the basis for an operation that has killed at least 57 people.
+
+10-29 NBC: Israel said Wednesday that the ceasefire in the Gaza Strip was back on after it carried out intense strikes across the Palestinian enclave that killed 100 people, including children, according to local health officials.
+
+10-30 Reuters: U.S. President Donald Trump ordered the U.S. military on Thursday to immediately resume testing nuclear weapons after a gap of 33 years, minutes before beginning a meeting with Chinese President Xi Jinping. "Because of other countries testing programs, I have instructed the Department of War to start testing our Nuclear Weapons on an equal basis. That process will begin immediately," Trump posted.
+
+10-30 NBC: Five new suspects have been arrested in connection with the Louvre heist in Paris, officials said Thursday, though the jewels themselves remain missing. Two others suspected of breaking into the Galerie D'Apollon, both former delivery drivers, have "partially confessed" to their part in the crime, Beccuau revealed a day earlier. They include an Algerian national, 34, who was unemployed at the time of his arrest but had previously worked as a delivery driver. The second suspect, 39, is a taxi driver and a former delivery driver.
+
+10-30 AP: King Charles III on Thursday stripped his disgraced brother Prince Andrew of his remaining titles and evicted him from his royal residence after weeks of pressure to act over his relationship with sex offender Jeffrey Epstein, Buckingham Palace said. After the king’s rare move, which follows years of shameful scandals, he will be known as Andrew Mountbatten Windsor and not as a prince, and he will have to vacate his Royal Lodge mansion near Windsor Castle. Demand had been growing on the palace to oust the prince from Royal Lodge after he surrendered his use of the title Duke of York earlier this month over new revelations about his friendship with Epstein and renewed sexual abuse allegations by one of Epstein’s victims, Virginia Roberts Giuffre, whose posthumous memoir hit bookstores last week.
+
+10-31 WSJ: The Trump administration has identified targets in Venezuela that include military facilities used to smuggle drugs, according to U.S. officials familiar with the matter. If President Trump decides to move forward with airstrikes, they said, the targets would send a clear message to Venezuelan leader Nicolás Maduro that it is time to step down.
+
+10-31 Fox: The FBI has said that it prevented a potential terrorist attack in Michigan, arresting multiple suspects accused of plotting violence over the Halloween weekend. "This morning, the FBI thwarted a potential terrorist attack and arrested multiple subjects in Michigan who were allegedly plotting a violent attack over Halloween weekend," FBI Director Kash Patel posted on X.
+
+10-31 NBC: A Department of Homeland Security spokeswoman offered a two-word reply Friday in response to a local news report that said immigration agents were seen wearing Halloween masks in the Los Angeles area. “Happy Halloween!” DHS assistant secretary for public affairs Tricia McLaughlin wrote to NBC News when asked about the report.
+
+10-31 USA Today: President Donald Trump hosted a Great Gatsby-themed party at Mar-A-Lago on Oct. 31, as multiple federal judges ruled the administration could not stop funding food aid amid the ongoing government shutdown. The party was labeled ‘A Little Party Never Killed Nobody’ according to multiple media attendees. The title was drawn from a song on the soundtrack of the 2013 movie adaptation of ‘The Great Gatsby.’
+
+11-01 Al Jazeera: Starved and abused civilians have recounted harrowing stories after fleeing the paramilitary Rapid Support Forces in western Sudan’s Darfur, while thousands more remain missing. The capital of North Darfur state was the last Sudanese army stronghold in the vast region before falling to the RSF after 18 months of siege on Sunday. Since then, the United Nations and international aid agencies have raised the alarm over the fate of civilians as accounts of mass killings, rape and other abuses continue to emerge.
+
+11-01 Politico: President Donald Trump on Saturday threatened U.S. military intervention in Nigeria and the withholding of all foreign aid if its government continues “to allow the killing of Christians.” Trump said in a post to social media that if Nigeria does not halt the persecution of Christians he may send U.S. troops “guns-a-blazing” to “completely wipe out the Islamic Terrorists who are committing these horrible atrocities.”
+
+11-01 AP: British police said 10 people have been hospitalized, nine with life-threatening injuries, following a mass stabbing attack on a London-bound train Saturday evening, and that counter-terrorism police are supporting the investigation.
+
+11-02 AP: A Michigan defense lawyer is disputing FBI Director Kash Patel’s allegations that his 20-year-old client and four other young suspects were planning to carry out a terror attack on Halloween weekend. The investigation involved discussion in an online chat room involving at least some of the suspects who were taken into custody, according to two people briefed on the investigation who could not publicly discuss details. They spoke to The Associated Press on condition of anonymity. The group allegedly discussed carrying out an attack around Halloween, referring to “pumpkin day,” according to one of the people. The other person briefed on the investigation confirmed that there had been a “pumpkin” reference. However, lawyer Amir Makled, who represents a man from the suburb of Dearborn who was still detained on Saturday, said federal authorities haven’t given him many details about the investigation but after reviewing the matter, he concluded that no terror event was planned. He said he doesn’t expect any charges will be filed.
+
+11-02 NYP: Radical socialist Zohran Mamdani’s lead over Andrew Cuomo has narrowed to just 6.6 points — the slimmest edge he’s held since July, according to a stunning new poll out Saturday.
+
+11-02 CNN: An apparently “intentional” explosion at a Harvard University medical building early Saturday is under investigation, authorities said. An officer responded to the Goldenson building around just before 3 a.m. ET and saw two people fleeing the building after a fire alarm was activated, according to the Harvard University Police Department. Two masked people were later seen in surveillance footage circulated by police, one of them wearing what appeared to be a gray ski mask and the other a long face mask and a black hoodie.
+
+11-02 AP: British police said Sunday that one of two men arrested in connection with a mass stabbing attack that spread fear and panic on a London-bound train a day earlier has been released without charge.
+
+11-03 Guardian: The CBS News program 60 Minutes heavily edited down an interview with Donald Trump that aired on Sunday night, his first sit-down with the show in five years. Trump sat down with correspondent Norah O’Donnell for 90 minutes, but only about 28 minutes were broadcast. The edits are notable because, exactly one year before Trump was interviewed by O’Donnell at his Mar-a-Lago resort on Friday he had sued CBS over the editing of a 60 Minutes interview with then-Vice President Kamala Harris, which he alleged had been deceptively edited to help her chances in the presidential election. While many legal experts widely dismissed the lawsuit as “meritless” and unlikely to hold up under the first amendment, CBS settled with Trump for $16m in July.
+
+11-03 BBC: US President Donald Trump says he does not know who Changpeng Zhao is, despite pardoning the cryptocurrency multi-billionaire last month. Trump was asked about the pardon during an interview with CBS News' 60 Minutes programme, which was broadcast on Sunday. Zhao, who is also known as "CZ", pleaded guilty to enabling money laundering in 2023. His companies have partnered with firms linked to Trump on new digital-currency projects including Dominari Holdings, where his sons sit on the board of advisers and which is based in Trump Tower.
+
+11-03 AP: Until last week, Maj. Gen. Yifat Tomer-Yerushalmi was the Israeli army’s top lawyer. Now she is behind bars and at the center of a scandal rocking the country after a bizarre sequence of events that included her abrupt resignation, a brief disappearance and a frantic search that led authorities to find her on a Tel Aviv beach. The soap opera-worthy saga was touched off last week by Tomer-Yerushalmi’s explosive admission that she approved the leak of a surveillance video at the center of a politically divisive investigation into allegations of severe abuse against a Palestinian at a notorious Israeli military prison.
+
+11-04 CNN: Dick Cheney, America’s most powerful modern vice president and chief architect of the “war on terror,” who helped lead the country into the ill-fated Iraq war on faulty assumptions, has died, according to a statement from his family. He was 84.
+
+11-04 ABC: The Department of Transportation might be forced to shut down airspace in certain parts of the country if the government shutdown continues into next week, Transportation Secretary Sean Duffy said on Tuesday.
+
+11-04 AP: A UPS cargo plane crashed and exploded in a massive fireball Tuesday while taking off from the company’s global aviation hub in Louisville, Kentucky, killing at least three people and injuring 11 — numbers that were likely to grow, the state’s governor said.
+
+!['Fireball from the UPS cargo plane crash.'](/everything-2025/ups-plane-louisville-crash-fireball.jpg)
+
+11-05 WSJ: President Trump has recently expressed reservations to top aides about launching military action to oust Venezuelan President Nicolás Maduro, fearing that strikes might not compel the autocrat to step down, according to U.S. officials familiar with the deliberations.
+
+11-05 AP: Democrats dominated the first major Election Day since President Donald Trump returned to the White House. Democrats on Tuesday won governor’s races in Virginia and New Jersey, the only states electing new chief executives this year. They also swept a trio of state Supreme Court contests in swing-state Pennsylvania and ballots measures from Colorado to Maine. Meanwhile, Republicans in Washington may be more excited than Democrats that a self-described democratic socialist will become New York City’s next mayor.
+
+11-05 AP: President Donald Trump got a serious warning from voters that he’s out of touch with their fears about a deteriorating U.S. economy. “We learned a lot,” Trump acknowledged on Wednesday. He later posted online that, “Affordability is our goal.” Vice President JD Vance struck a similar tone, posting on X: “We’re going to keep on working to make a decent life affordable in this country, and that’s the metric by which we’ll ultimately be judged in 2026 and beyond.”
+
+11-05 AP: The Federal Aviation Administration said Wednesday that it would reduce air traffic by 10% across 40 “high-volume” markets beginning Friday morning to maintain safety during the ongoing government shutdown. The reduction stands to impact thousands of flights nationwide because the FAA directs more than 44,000 flights daily, including commercial passenger flights, cargo planes and private aircraft.
+
+11-05 Louisville UPS plane crash updates: "As of Wednesday morning, at least 12 people are dead and 15 injured, and at least 16 people are still missing. Thirteen people have been discharged from UofL Health and two remain in critical condition in the ICU. Mayor Craig Greenberg said some of the deaths were the three crew members on board.” “The aircraft’s left engine detached as the plane rolled toward takeoff, according to safety investigators.”"
+
+11-06 AP: Speaker Emerita Nancy Pelosi will not seek reelection to the U.S. House, bringing to a close her storied career as not only the first woman in the speaker’s office but arguably the most powerful in American politics.
+
+11-06 Trump photographed sleeping through portions of a press conference in the Oval Office.
+
+11-07 AP: The unemployment rate is low and the economy is still growing, but those out of work face the slowest pace of hiring in more than a decade. Diane Swonk, chief economist at KPMG, calls it a “jobless boom.”
+
+11-09 Senate Democrats on Sunday indicated they are ready to advance a package of bills that could end the government shutdown, multiple sources told Axios. At least 10 Senate Democrats are expected to support a procedural motion to advance a package of spending bills and a short term funding measure, multiple sources from both parties told Axios. The deal would include a promised vote on extending Obamacare tax credits in December, the sources said.
+
+11-10 NYT: President Trump on Monday threatened to sue the BBC for $1 billion for a documentary that his lawyer claimed included “malicious, disparaging” edits to a speech Mr. Trump delivered on Jan. 6, 2021.
+
+11-11 BBC: A suicide attack outside a court in Pakistan's capital Islamabad has killed 12 people and injured at least 27 others, the country's interior minister said.
+
+11-11 Express: Congress is one step closer to ending the government shutdown after the Senate passed a temporary funding bill on Monday night. Senators voted on Monday night, 60-40, to approve a spending package to fund the government until January. The approval came after eight Democratic senators crossed party lines, siding with Republicans and leaving the future of healthcare subsidies, the main issue Democrats were fighting for, unclear.
+
+11-11 Politico: President Donald Trump asked the Supreme Court to overturn a $5 million judgment that he sexually abused and defamed the writer E. Jean Carroll, calling her allegations “facially implausible” and “politically motivated.”
+
+11-11 Barron’s: A country-music song featuring a male singer's voice generated by artificial intelligence reached the top of the US charts for the first time this week. "Walk My Walk" by Breaking Rust -- an artist with no identity but widely reported by US media to be powered by generative AI technology -- made it to the top spot on Billboard magazine's chart ranking digital sales of country songs, according to data published Monday.
+
+11-12 WSJ: The U.S. Navy’s largest aircraft carrier arrived in waters near Latin America on Tuesday, expanding the American military’s buildup as the Trump administration seeks to ratchet up the pressure on Venezuelan President Nicolás Maduro.
+
+11-12 NYT: House Democrats on Wednesday released emails in which Jeffrey Epstein wrote that President Trump had “spent hours at my house” with one of Mr. Epstein’s victims, among other messages that suggested that the convicted sex offender believed Mr. Trump knew more about his abuse than he has acknowledged. In one of the messages, Mr. Epstein flatly asserted that Mr. Trump “knew about the girls,” many of whom were later found by investigators to have been underage. In another, Mr. Epstein pondered how to address questions from the news media about their relationship as Mr. Trump was becoming a national political figure.
+
+11-12 Times: President Macron’s hardest-fought reform was halted on Wednesday night in a parliamentary vote seen as a final blow to his ambition to revamp France for the 21st century. MPs agreed to suspend a 2023 flagship law raising the retirement age from 62 to 64 after Sébastien Lecornu, the prime minister, surrendered to demands from the opposition Socialist party as the price of keeping his fragile month-old minority government afloat.
+
+11-12 AP: The longest government shutdown in U.S. history could conclude as soon as today, Day 43, after the U.S. House of Representatives voted Wednesday to reopen the government. The funding bill has already passed the Senate and will now go to President Donald Trump’s desk, where Trump is scheduled to sign it Wednesday night, according to the White House. Trump has called the bill a “very big victory.”
+
+11-12 AP: The U.S. ended production of the penny Wednesday, abandoning the 1-cent coins that were embedded in American culture for more than 230 years but became nearly worthless. When it was introduced in 1793, a penny could buy a biscuit, a candle or a piece of candy. Now most of them are cast aside to sit in jars or junk drawers, and each one costs nearly 4 cents to make. “God bless America, and we’re going to save the taxpayers $56 million,” Treasurer Brandon Beach said at the U.S. Mint in Philadelphia before hitting a button to strike the final penny. The coins were then carefully placed on a tray for journalists to see. The last few pennies were to be auctioned off.
+
+11-12 NYT: President Trump and his administration on Wednesday ramped up a pressure campaign on congressional Republicans who are pushing for a full release of the Justice Department’s files about the convicted sex offender Jeffrey Epstein, rushing to head off a House vote on the matter. But even as the White House made last-ditch moves to block action, proponents of a vote reached a critical threshold to force one, winning the final signature on a petition that will require the House to bring up the matter in the coming days. By Wednesday night, Speaker Mike Johnson, who has opposed considering the measure, said he would relent and bring it to a vote next week. It came the same day that top officials had summoned Representative Lauren Boebert, a Colorado Republican who has signed the petition, to a meeting in the White House Situation Room with Attorney General Pam Bondi and the F.B.I. director, Kash Patel, to discuss her demand to release the files, according to two people familiar with the matter.
+
+11-13 AP: President Donald Trump signed a government funding bill Wednesday night, ending a record 43-day shutdown that caused financial stress for federal workers who went without paychecks, stranded scores of travelers at airports and generated long lines at some food banks.
+
+11-13 Telegraph: Republicans are preparing a mass rebellion against Donald Trump in a vote to release all classified files related to Jeffrey Epstein. Mike Johnson, speaker of the US House of Representatives, said on Wednesday he would hold a vote next week to compel the Justice Department to release the remaining files. Senior Republicans believe the vote will provoke dozens of their own to vote against the president’s wishes, Politico reported, citing unnamed sources.
+
+11-14 Reuters: U.S. President Donald Trump on Friday said he was asking the Department of Justice to investigate Jeffrey Epstein's alleged ties with JPMorgan and several prominent Democratic figures, including former President Bill Clinton.
+
+11-14 WaPo: Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine returned to the White House on Friday for a second consecutive day of deliberations centered on potential military action in Venezuela, as U.S. forces in the region prepared for possible attack orders, according to people familiar with the matter. It remains unclear if President Donald Trump has decided to pursue such an escalation, though high-level discussions over whether to strike Venezuela — and how — have been underway for days, these people said, speaking on the condition of anonymity because the matter is highly sensitive. Also joining the White House meeting were Vice President JD Vance, Secretary of State Marco Rubio and Deputy Chief of Staff Stephen Miller, these people said.
+
+11-15 Reuters: President Donald Trump withdrew his endorsement of Republican lawmaker Marjorie Taylor Greene on Friday, citing her recent criticism of his agenda in a notable rupture between Trump and one of his most outspoken congressional allies. "I am withdrawing my support and endorsement of 'Congresswoman' Marjorie Taylor Greene, of the great state of Georgia," Trump posted on Truth Social late on Friday.
+
+11-15 CNN: President Donald Trump suggested he has made up his mind on a course of action in Venezuela following multiple high-level briefings this week and a mounting US show of force in the region. “I sort of have made up my mind — yeah. I mean, I can’t tell you what it would be, but I sort of have,” Trump told reporters aboard Air Force One when asked directly about those meetings and whether he had made a decision.
+
+11-16 AP: Several thousand people took to the streets of Mexico City on Saturday to protest crime, corruption and impunity in a demonstration organized by members of Generation Z, but which ended with strong backing from older supporters of opposition parties. The demonstration was mostly peaceful but ended with some young people clashing with the police. Protesters attacked police with stones, fireworks, sticks and chains, grabbing police shields and other equipment. The capital's security secretary, Pablo Vázquez, said 120 people were injured, 100 of them police officers. Twenty people were arrested.
+
+11-17 NYT: On Sunday night, Mr. Trump did something he has rarely been forced to do: He caved in the face of pressure from his party and called on House Republicans to go ahead and back a bill that would order his Justice Department to release all of its investigative files on the convicted sex offender Jeffrey Epstein. By Monday, he was saying, “Sure,” he would sign the legislation he has spent months trying to kill.
+
+11-18 Independent: Parts of the web appear to have stopped working amid a technical problem at Cloudflare. Visitors to websites such as X, formerly known as Twitter, ChatGPT and film reviewing site Letterboxd saw an error message that indicated that Cloudflare problems meant that the page could not show.
+
+11-18 CNN: Lawmakers on Capitol Hill Tuesday took the significant step of ordering President Donald Trump’s Justice Department to publicly release all of its investigative files into the convicted sex offender Jeffrey Epstein, after months of nasty infighting within the GOP. Congress is sending the measure — which remarkably won support from all but one Republican across both the House and Senate — to Trump’s desk once it’s formally transmitted between the chambers. Despite months of calling the issue a “Democratic hoax,” the president has said he’ll sign the bill.
+
+11-19 CNN: Growing concerns about an artificial intelligence bubble have, in large part, caused the stock market’s recent bout of volatility. So the AI industry will face an enormous test when Nvidia, the world’s most valuable company and backbone of the AI boom, reports earnings after the bell on Wednesday. The stock market rally — that had been going practically nonstop since April until this month’s blip — largely depends on Nvidia. The chipmaker, which is the gold standard for AI computing power, has propelled the market higher across the past three years.
+
+11-20 NYT: U.S. stock futures rose on Thursday after a bumper earnings report from the chipmaker Nvidia boosted equity markets around the world, as the results eased anxieties about potential overinvestment in artificial intelligence.
+
+11-20 Mediaite: President Donald Trump suggested that six Democratic lawmakers who put out a video urging military members to “refuse illegal orders” were guilty of “SEDITIOUS BEHAVIOR, punishable by DEATH!’ in a stunning Thursday morning Truth Social post. “It’s called SEDITIOUS BEHAVIOR AT THE HIGHEST LEVEL. Each one of these traitors to our Country should be ARRESTED AND PUT ON TRIAL. Their words cannot be allowed to stand – We won’t have a Country anymore!!! An example MUST BE SET. President DJT,” he wrote.
+
+11-20 BBC: US President Donald Trump says he has approved a bill that orders the release of government files on the late convicted sex offender Jeffrey Epstein - a significant turning point in a months-long fight over the documents. The justice department now has 30 days to publicly share all information from federal investigations into Epstein. However, it can withhold files that relate to active criminal investigations or are deemed to invade personal privacy.
+
+11-21 WaPo: The White House is pressuring Ukraine to sign on to its new peace proposal by Thanksgiving or lose U.S. support to the country, according to two officials familiar with the talks, speaking on the condition of anonymity to describe sensitive diplomatic discussions. U.S. Army Secretary Daniel Driscoll presented Ukrainian President Volodymyr Zelensky on Thursday with a version of the 28-point plan President Donald Trump’s special envoy Steve Witkoff recently drafted with Russian envoy Kirill Dmitriev. That plan, which has been leaked in the press and confirmed by several officials, included several red lines for Ukraine, including a massive reduction of its army size and ceding territory to Russia that it has not yet conquered militarily.11-21 20:53:16 Georgia GOP Rep. Marjorie Taylor Greene announced Friday she will be resigning from office in January. “I will be resigning from office with my last day being January 5, 2026,” Greene said in a statement.
+
+11-21 Daily Mail: Usha Vance was spotted at an official engagement without her wedding ring, weeks after husband JD Vance publicly revealed the religious divide in their marriage. The image comes after weeks of nasty trolls whispering about the state of the Vance marriage, which began in October with the Vice President's tight hug he gave to Erika Kirk during a memorial for her husband, the right wing activist Charlie Kirk. The speculation about a possible rift between the Second Couple was fueled by the VP admitting that he has pleaded with his wife to convert from Hinduism: he is a Roman Catholic.
+
+11-22 WSJ: Gunmen stormed a Catholic school in Nigeria, abducting more than 300 students and teachers at a time when President Trump is threatening military action to protect Christians in the West African nation. The attackers hit St. Mary’s Catholic School in central Niger State in the early hours Friday, spraying bullets into the air before rousting students from their dormitories and forcing them into the forest at gunpoint, police said.
+
+11-23 (WXYZ) — Clinton Township police are investigating a shooting at Partridge Creek on Sunday evening while the outdoor mall was hosting its annual tree lighting. Right now, details are limited, but 7 News Detroit has confirmed that one person was shot in the abdomen. Clinton Township police say the victim is stable. Police say the person of interest in the shooting is described as a Black male wearing a green hooded sweatshirt with white flowers, jeans and tennis shoes. They were last seen leaving the mall to the west, police say. According to police, the incident appears to be isolated, not targeted at the tree lighting ceremony, and occurred between two groups.
+
+11-23 A rival European plan to end the war in Ukraine, obtained by The Telegraph, differs sharply from the contentious 28-point proposal put forward by the Trump administration. The US proposals have been widely criticised as being too favourable to Moscow, ceding large tracts of territory to Russia, reducing the size of the Ukrainian army and barring Nato troops from Ukrainian soil. In contrast, the European plan is much more supportive of Ukraine, recognising the enormous sacrifices it has made during its war with Russia. Among the key differences in the European plan is a requirement for “no restriction” to be placed on the size of the Ukrainian armed forces. Unlike the Trump plan, the European plan does not ban Ukraine from joining Nato, with the final decision subject to “consensus within the alliance”.
+
+11-24 Reuters: U.S. President Donald Trump's Department of Government Efficiency has disbanded with eight months left to its mandate, ending an initiative launched with fanfare as a symbol of Trump's pledge to slash the government's size but which critics say delivered few measurable savings. "That doesn't exist," Office of Personnel Management Director Scott Kupor told Reuters earlier this month when asked about DOGE's status. It is no longer a "centralized entity," Kupor added.
+
+11-24 Mediaite: Federal Judge Cameron McGowan Currie dismissed the charges against ex-FBI Director James Comey and New York Attorney General Letitia James (D) on Monday. Judge Currie dismissed the case, which was brought by Trump’s controversial handpicked prosecutor in northern Virginia, Lindsey Halligan, on the basis that Halligan is not lawfully serving as the interim United States attorney for the Eastern District of Virginia.
+
+11-25 MS NOW: President Donald Trump is considering removing Kash Patel as FBI director in the coming months, as he and his top aides have grown increasingly frustrated by the unflattering headlines Patel has recently generated, according to three people with knowledge of the situation who requested anonymity in order to speak freely.
+
+11-25 A U.S. official told CBS News on Tuesday that Ukraine's government had "agreed to a peace deal" brokered by the Trump administration to stop Russia's nearly four-year assault. The American official and Ukraine's national security adviser Rustem Umerov said a common understanding on a proposal had been reached, with details still to be worked out. President Trump said there were "only a few remaining points of disagreement."
+
+11-26 AP: Two West Virginia National Guard members who deployed to the nation’s capital were shot Wednesday just blocks from the White House in a brazen act of violence. The West Virginia governor initially said the troops had died, but later walked back the statement to say the office was “receiving conflicting reports about the condition.” The governor’s office did not immediately respond to questions about the attack and the condition of the troops. A suspect, now in custody, was also shot and has injuries that are not believed to be life-threatening, according to a law enforcement official not authorized to discuss the matter publicly and who spoke to AP on condition of anonymity. One National Guard member was shot in the head, according to a person familiar with the details of the incident who spoke to AP on condition of anonymity.
+
+11-26 AP: A judge on Wednesday dismissed the Georgia election interference case against President Donald Trump and others after the prosecutor who took over the case said he would not pursue the charges, ending the last effort to punish the president in the courts for his efforts to overturn his 2020 election loss.
+
+11-26 AP: Hong Kong’s deadliest fire in years burned through the night, leaving at least 44 people dead and 279 reported missing with rescuers still pulling residents from blazing high-rise apartment buildings into the morning. Several local media outlets reported that police had arrested three men on suspicion of manslaughter in connection with fire which began Wednesday afternoon in a housing complex in Tai Po district, a suburb in the New Territories.
+
+11-27 NYT: The gunman who shot and critically injured two National Guard members near the White House is an Afghan who worked with C.I.A.-backed military units during the U.S. war in Afghanistan, the agency said on Thursday.
+
+11-28 Hegseth reported to have possibly committed a war crime. WaPo: The longer the U.S. surveillance aircraft followed the boat, the more confident intelligence analysts watching from command centers became that the 11 people on board were ferrying drugs. Defense Secretary Pete Hegseth gave a spoken directive, according to two people with direct knowledge of the operation. “The order was to kill everybody,” one of them said. A missile screamed off the Trinidad coast, striking the vessel and igniting a blaze from bow to stern. For minutes, commanders watched the boat burning on a live drone feed. As the smoke cleared, they got a jolt: Two survivors were clinging to the smoldering wreck. The Special Operations commander overseeing the Sept. 2 attack — the opening salvo in the Trump administration’s war on suspected drug traffickers in the Western Hemisphere — ordered a second strike to comply with Hegseth’s instructions, two people familiar with the matter said. The two men were blown apart in the water.
+
+11-28 WSJ: U.S. Army Specialist Sarah Beckstrom, 20 years old, one of the National Guard members targeted by a gunman in Washington, D.C., on Wednesday, has died, according to President Trump. “She’s just passed away,” Trump said during a Thanksgiving call for servicemembers. “She’s no longer with us. She’s looking down at us right now. She was savagely attacked, she’s dead,” Trump said, adding the other victim is fighting for his life. Later in a post on Truth Social, Trump said he would “permanently pause migration from all Third World Countries to allow the U.S. system to fully recover.”
+
+11-28 Telegraph: The United States is poised to recognise Russia’s control over Crimea and other occupied Ukrainian territories to secure a deal to end the war. The Telegraph understands that Donald Trump has sent his peace envoy Steve Witkoff and son-in-law Jared Kushner to make the direct offer to Vladimir Putin in Moscow. The plan to recognise territory, which breaks US diplomatic convention, is likely to go ahead despite concerns among Ukraine’s European allies. One well-placed source said: “It’s increasingly clear the Americans don’t care about the European position. They say the Europeans can do whatever they want.”
+
+11-28 Mediaite: Trump took to Truth Social, where he railed against Somalis again and Minnesota Governor Tim Walz (D), whom he called “seriously retarded” and claimed that the country’s foreign-born population is composed mostly of people who “are on welfare, from failed nations, or from prisons, mental institutions, gangs, or drug cartels.” The president also baselessly claimed that Rep. Ilhan Omar (D-MN), an immigrant who is one of a notable contingent of Somalis in Minnesota, “probably” entered the U.S. illegally and married her brother
+
+11-29 US Sun: DONALD Trump has declared Venezuela’s airspace is “closed in its entirety” after he vowed US land strikes will start “very soon”.
+
+11-29 Allen Analysis: “There is a new claim circulating about the D.C. National Guardsmen shooting, and it is gaining traction fast. According to posts now being shared across political X, the name of the alleged shooter, Rahmanullah Lakanwal, began spiking on Google Trends in Washington, D.C., hours before the attack took place. The claim suggests possible foreknowledge by unknown actors who searched his name long before the first shot was fired.”
+
+12-01 CNN: President Donald Trump will hold a meeting at the White House on Monday evening about next steps on Venezuela, sources familiar with the matter told CNN, as the administration intensifies its pressure campaign on the country.
+
+12-02 Trump says strikes on targets inside Venezuela to start "soon" From CNN's Adam Cancryn President Donald Trump said Tuesday he will soon begin striking targets inside Venezuela, an escalation of his administration’s offensive against alleged drug traffickers.
+
+12-02 ABOARD THE PAPAL FLIGHT, Dec 2 (Reuters) - Pope Leo urged U.S. President Donald Trump's administration on Tuesday not to try to oust Venezuelan President Nicolas Maduro using military force. Leo, the first U.S. pope, said it would be better to attempt dialogue or impose economic pressure on Venezuela if Washington wants to pursue change there.
+
+12-02 Guardian: The Pentagon on Tuesday scapegoated a Navy admiral for the extrajudicial double-tap strike that killed survivors of a September attack on an alleged drug boat and vowed to continue operations, even as lawmakers investigate whether the attack constituted a war crime. At a Pentagon briefing on Tuesday, Kingsley Wilson, the Pentagon press secretary said that the decision to restrike the narco terrorist vessel was made by Adm Frank M Bradley, “operating under clear and long standing authorities to ensure the boat was destroyed and the threat to the United States was eliminated”. Wilson added that Pete Hegseth, the Pentagon secretary, “stands behind Admiral Bradley, 100%”.
+
+12-04 CNN: Secretary of Defense Pete Hegseth risked compromising sensitive military information, which could have endangered American troops and mission objectives, when he used Signal in March of this year to share highly-sensitive attack plans targeting Houthi rebels in Yemen, according to four sources familiar with the contents of a classified Inspector General report. The repercussions of Hegseth’s action, two sources told CNN, are less clear since the IG concluded that the defense secretary has the authority to declassify information and Hegseth asserted he made an operational decision in the moment to share that information, though there is no documentation of such a decision.
+
+12-04 CNN: The company formerly known as Facebook shot up 7% early Thursday in response to a Bloomberg report that CEO Mark Zuckerberg is slashing the metaverse team’s budget by as much as 30%.
+
+12-05 NBC: In a watershed move, Warner Bros. Discovery said Friday it has agreed to sell its movie, television and streaming assets to Netflix in a deal valued at $82.7 billion, setting the stage for one of the most sweeping and consequential mergers in modern Hollywood history. If approved by federal regulators, the transaction promises to create a new entertainment and media behemoth, uniting the world’s largest streaming destination with a storied 102-year-old film studio. Warner Bros.’ portfolio includes HBO, the HBO Max streaming platform and the “Harry Potter” movie franchise. Netflix, home of “Stranger Things” and “Squid Game,” reaches more than 300 million paid subscribers across over 190 countries.
+
+12-06 CNN: The alleged drug traffickers killed by the US military in a strike on September 2 were heading to link up with another, larger vessel that was bound for Suriname — a small South American country east of Venezuela - the admiral who oversaw the operation told lawmakers on Thursday, according to two sources with direct knowledge of his remarks.
+
+12-06 Telegraph: Steve Witkoff and Donald Trump’s son-in-law Jared Kushner will help run Gaza, Western officials have said. The negotiators, who both played key roles in securing the ceasefire, will be involved in the practical rebuilding of the war-torn Strip, under US plans to be announced this month. This is despite both also being centrally involved in US efforts to end the war in Ukraine. According to briefings from Western officials to media in the US and Israel, Mr Kushner and Mr Witkoff will join Sir Tony Blair on Gaza’s executive board, which will sit under the board of peace, chaired by Mr Trump.
+
+12-08 CNBC: Paramount Skydance is launching a hostile bid to buy Warner Bros. Discovery after it lost out to Netflix in a months-long bidding war for the legacy assets, the company said Monday.
+
+12-09 NBC: More than 1 million social media accounts held by users under 16 are set to be deactivated in Australia on Wednesday in a divisive world-first ban that has inflamed a culture war and is being closely watched in the United States and elsewhere.
+
+12-09 Donald Trump did not rule out expanding US military operations beyond Venezuela to Mexico and Colombia. The president said in a interview taped this week that he would consider using military force on two US allies in Latin America. Trump cited Mexico and Colombia's drug trade into the US as he continues threatening to overthrow Venezuelan President Nicolás Maduro.
+
+12-09 Eileen Higgins will be the next mayor of the city of Miami, according to a projection from CNN’s Decision Desk, breaking a nearly 30-year Republican streak in holding the nonpartisan seat and giving Democrats another example of strong performance in elections during the first year of President Donald Trump’s second term.
+
+12-09 WaPo: A new U.S. national security strategy berating Europe has triggered a wave of acrimony across the Atlantic, enraging and dismaying European officials who say the document has turned the Trump administration’s vitriol against European democracies into formal policy. President Donald Trump’s push to halt the war in Ukraine on terms favorable to Russia and the European Union’s announcement Friday of a roughly $140 million fine against X for violating the bloc’s digital rules have fueled the fire, pushing transatlantic relations to their lowest point since Trump returned to the White House in January.
+
+12-10 Bloomberg: "US forces have intercepted and seized a sanctioned oil tanker off the coast of Venezuela, according to people familiar with the matter, a move that marks a serious escalation of tensions between the two countries." (Remarkable footage of this quickly spread online.)
+
+12-10 US President Donald Trump has blasted media reports questioning his state of health as "seditious, perhaps even treasonous," sparking pushback Wednesday by one of the major outlets behind the stories. "I actually believe it’s seditious, perhaps even treasonous, for The New York Times, and others, to consistently do FAKE reports in order to libel and demean 'THE PRESIDENT OF THE UNITED STATES.'"
+
+12-13 NYT: The oil tanker seized by the United States off the coast of Venezuela this week was part of the Venezuelan government’s effort to support Cuba, according to documents and people inside the Venezuelan oil industry.
+
+12-13 DAMASCUS, Syria (AP) — President Donald Trump said Saturday that “there will be very serious retaliation” after two U.S. service members and one American civilian were killed in an attack in Syria that the United States blames on the Islamic State group. “This was an ISIS attack against the U.S., and Syria, in a very dangerous part of Syria, that is not fully controlled by them,” he said in a social media post.
+
+12-14 Twelve people, including children, are dead after two gunmen armed with rifles opened fire at Bondi Beach on Sunday afternoon, in an act of terrorism targeting a Jewish holiday celebration. Witnesses said two men stepped out of a vehicle on Campbell Parade, near Bondi Pavilion, and opened fire about 6.40pm on Sunday with footage showing blast after blast on the tourist strip. Some witnesses report more than 30 shots. (Another instance of remarkable footage spreading online: a long video of nearly the entire incident, including a bystander fighting to take a shooter's gun and a clear view of another shooter's position for several minutes.)
+
+12-14 Now 16 dead from Bondi Beach shooting
+
+12-14 NYT: Hundreds of police officers swarmed the streets near Brown University late Saturday, shining flashlights into parked cars in search of a gunman who opened fire in a campus building, killing two students and injuring nine more. Officials indicated that they had not identified the attacker, who escaped onto the streets of Rhode Island’s capital. They planned to release a video shortly that shows the gunman leaving the scene of the attack, though his face is not visible.
+
+12-15 People: Rob Reiner and his wife, Michele Singer Reiner, were killed by their son, Nick, according to multiple sources who have spoken with family members. Police have not yet confirmed the account. On Sunday, Dec. 14, at about 3:30 p.m., the Los Angeles Fire Department (LAFD) was called to a home to provide medical aid, the LAFD told PEOPLE. Upon arrival, they found a man, 78, and a woman, 68, dead. Sources confirm the victims were Rob and Michele. Police say Nick, 32, is alive and being questioned. No arrests have been made.
+
+12-15 Trump says Reiner death was “reportedly due to the anger he caused others through his massive, unyielding, and incurable affliction with a mind crippling disease known as TRUMP DERANGEMENT SYNDROME, sometimes referred to as TDS. He was known to have driven people CRAZY by his raging obsession of President Donald J. Trump, with his obvious paranoia reaching new heights as the Trump Administration surpassed all goals and expectations of greatness, and with the Golden Age of America upon us, perhaps like never before.”
+
+12-15 Merriam-Webster names 'slop' as its 2025 word of the year
+
+12-15 Ford Motor Company has ceased production of the all-electric F-150 Lightning, its flagship full-size electric pickup, and will focus instead on hybrid vehicles and a future line of smaller, cheaper EVs. Battery plants once intended to supply Ford trucks will now be sending batteries to bolster the electric grid instead.
+
+12-16 AP: President Donald Trump filed a lawsuit Monday seeking $10 billion in damages from the BBC, accusing the British broadcaster of defamation as well as deceptive and unfair trade practices.
+
+12-16 White House chief of staff Susie Wiles is forcefully pushing back against a stunning, on-the-record Vanity Fair profile in which she is quoted making a series of sharply critical remarks about President Donald Trump as well as several top aides and Cabinet officials. The article, written by veteran Trump chronicler Chris Whipple, offers an extraordinary look at the first year of Trump’s second presidency, drawing on extensive and remarkably candid conversations with one of its chief architects. The resulting two-part profile sent shockwaves through the political media world. Among the most explosive revelations: a striking comparison between Trump and an “alcoholic”, a tacit acknowledgment that the Justice Department has been weaponized as part of a retribution campaign, a blunt characterization of Vice President JD Vance as a conspiracy theorist, and a pointed admission that Attorney General Pam Bondi “whiffed” on the Epstein files.
+
+12-17 Variety: The Oscars are heading to the (very) small screen. In a move that’s sure to send shockwaves through Hollywood, the Academy of Motion Picture Arts and Sciences and YouTube has signed a multi-year deal that will give YouTube the exclusive global rights to the Oscars, beginning in 2029 with the 101st Oscars ceremony and running through 2033. ABC has rights to the telecast through 2028.
+
+12-17 WASHINGTON — FBI Deputy Director Dan Bongino will resign his position with less than a year on the job — after reportedly packing up his belongings and bidding adieu to his team.
+
+12-17 President Donald Trump will deliver a televised speech Wednesday evening that is expected to focus heavily on the economy, an effort to reverse declining public opinion numbers and the view even among some supporters that he has not lived up to key campaign promises. Trump’s ratings reached their lowest levels of his second term late last month. Although his numbers have rebounded slightly, he still remains underwater with the public, particularly on domestic economic issues such as the cost of living. Trump is not expected to make major new policy announcements during the 9 p.m. address, a White House official and a person close to the White House told The Washington Post. But the two individuals, who requested anonymity to preview the speech, cautioned that Trump could change his mind ahead of the address.
+
+12-17 AP: President Donald Trump delivered a speech live from the White House on Wednesday night where he discussed his achievements and touched on some of his agenda for next year and beyond. The president also announced his administration is sending checks of $1,776 to more than 1.4 million U.S. service members before Christmas, bonuses he called “warrior dividends.”
+
+12-19 The suspect in Saturday’s shooting at Brown University and the fatal shooting of an MIT professor days later is dead, law enforcement officials said Thursday night. Authorities found the suspect, Portuguese national Claudio Manuel Neves Valente, 48, dead with a self-inflicted gunshot wound in a storage facility in New Hampshire. The discovery marked the end of a five-day manhunt that began after two students were killed and nine more injured at Brown.
+
+12-19 TikTok has signed a deal to divest its U.S. entity to a joint venture controlled by American investors, per an internal memo seen by Axios. A deal would end a yearslong saga to force TikTok's Chinese parent ByteDance to sell the company's U.S. operation to domestic owners to alleviate national security concerns.
+
+12-19 Politico: The Department of Justice released a portion of the vast trove of documents related to the federal government’s investigation into Jeffrey Epstein on Friday, after months of infighting that tested the unity of the MAGA movement. The release comes after Congress passed a bill ordering the Justice Department to make all of its unclassified records related to Epstein’s investigation and prosecution public by Dec. 19, despite initial objections from President Donald Trump and Republican Party leaders. Deputy Attorney General Todd Blanche said that Friday’s release would not include all material and the department would disseminate potentially hundreds of thousands more files “over the next couple weeks.”"
+
+12-19 CNN: The US Department of Health and Human Services is planning to overhaul the schedule of recommended vaccines for children in the US, a person familiar with the plans told CNN on Thursday. The proposed new schedule would recommend fewer shots, bringing it closer in line with what’s recommended in other developed countries. The expectation is that the US schedule will be close to, if not identical to, recommendations in Denmark, according to the person, who asked not to be identified because they were not authorized to speak about the matter.
+
+12-19 NYT: The United States carried out major airstrikes against the Islamic State in Syria on Friday, fulfilling President Trump’s vow to avenge the deaths of two U.S. Army soldiers and a civilian U.S. interpreter killed in a terrorist attack in the central part of the country last Saturday. American fighter jets, attack helicopters and artillery fired more than 100 munitions at more than 70 suspected Islamic State targets at several locations across central Syria, including weapons storage areas and other buildings to support operations, the military’s Central Command said in a statement. It said Jordanian warplanes assisted in the operation.
+
+12-20 The United States interdicted a tanker off the coast of Venezuela in international waters, two U.S. officials told USA TODAY on Dec. 20, just days after President Donald Trump announced a "blockade" of all sanctioned oil tankers entering and leaving Venezuela. Two sources with knowledge of the seizure identified the vessel to USA TODAY as the Centuries, which maritime records show is a Panama-flagged oil tanker. The ship is not under U.S. sanctions, the sources said. Marine traffic trackers showed the Centuries was off the coast of Venezuela in the waters of Curaçao, a Dutch Caribbean island.
+
+12-20 NBC: Israeli officials have grown increasingly concerned that Iran is expanding production of its ballistic missile program, which was damaged by Israeli military strikes earlier this year, and are preparing to brief President Donald Trump about options for attacking it again, according to a person with direct knowledge of the plans and four former U.S. officials briefed on the plans.
+
+12-21 Daily Mail: A massive outage has knocked out power to 130,000 homes and businesses across San Francisco, leaving at least one-third of the city in darkness.
+
+12-21 TechCrunch: Waymo suspended its robotaxi service in San Francisco on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.
+
+12-21 Bloomberg: Another oil tanker has been boarded by the US near Venezuela, according to people with knowledge of the matter, as President Donald Trump intensifies an oil blockade on Nicolás Maduro’s government. The Bella 1 tanker, a Panamanian-flagged vessel sanctioned by the US, was en route to Venezuela to load, one of the people said, asking not to be identified. The interdiction follows the boarding of the Centuries supertanker early Saturday and the Skipper on Dec. 10.
+
+12-22 CBS News pulled a planned “60 Minutes” segment on an El Salvador maximum-security prison where the Trump administration sent hundreds of Venezuelan migrants, a last-minute decision that drew a rebuke from one of its high-profile correspondents. Sharyn Alfonsi said in a Sunday email to fellow correspondents including Lesley Stahl, Scott Pelley and Anderson Cooper that she learned Saturday that new CBS News editor in chief Bari Weiss “spiked our story.” Alfonsi said the last-minute change was, in her view, a political decision, rather than an editorial call, according to the email, which was reviewed by The Wall Street Journal.
+
+12-22 NYT: More than a dozen photos — including one featuring President Trump — were removed without explanation from the large collection of files connected to the investigations of Jeffrey Epstein that the Justice Department released on Friday.
+
+12-22 Trump names Louisiana governor as Greenland special envoy, prompting Danish alarm
+
+12-22 Variety: A “60 Minutes” report yanked by Bari Weiss about the “horrific treatment” of detainees deported from the U.S. to a prison in El Salvador has leaked online after appearing on a Canadian TV app. In the segment, reviewed by Variety, correspondent Sharyn Alfonsi interviewed a man forcibly removed from the U.S. and sent to the Centro de Confinamiento del Terrorismo (CECOT) prison by the Trump administration, despite having no criminal record. “There was blood everywhere, screams, people crying, people who couldn’t take it and were urinating and vomiting on themselves,” said Luis Munoz Pinto, a college student in Venezuela who sought asylum in the U.S. He said he spent six months detained by customs, waiting for a decision on his asylum case, before he was deported. “Four guards grabbed me, and they beat me until I bled, until the point of agony. They knocked our faces against the wall. That was when they broke one of my teeth,” Pinto added.
+
+12-22 Russia's Foreign Ministry has begun evacuating the families of diplomats from Venezuela, a European intelligence official told AP on Monday, as the United States pursues its third sanctioned oil tanker in the Caribbean and President Donald Trump convenes senior national security officials at his Mar-a-Lago resort. The evacuations, which started Friday and include women and children, come as Russian officials assess the situation in Venezuela in what the intelligence source described as "very grim tones."
+
+12-23 WaPo: Three days after releasing a large tranche of Jeffrey Epstein documents that contained few mentions of President Donald Trump, the Justice Department disclosed thousands more files that included wide-ranging references to the president.
+
+12-25 CNN: President Donald Trump said Thursday he’d ordered a deadly strike on Islamic State terrorists in Nigeria, who he has accused of persecuting Christians in the country. In a post on social media, Trump said he’d directed a “powerful and deadly strike against ISIS Terrorist Scum in Northwest Nigeria,” who he said had been killing innocent Christians.
+
+12-26 Barron's: Ukrainian President Volodymyr Zelensky and US President Donald Trump are to meet on Sunday in Florida to discuss efforts to end Russia's invasion, Kyiv said Friday. "There is a plan for the meeting" to take place on Sunday, an advisor to Zelensky said, after an earlier statement from the Ukrainian leader signalled the meeting.
+
+12-26 NYT: In New York City, the signs of flu abound: more people wearing masks, more people coughing on the subway. There has been a school closure. Families canceling plans. Sports fans have noticed absences. The Brooklyn Nets head coach, Jordi Fernández, missed a game because of flu. So did a New York Rangers assistant coach. Preliminary data from hospitals across the city indicates that more patients went to emergency rooms complaining of flulike symptoms — such as fever and a cough — in the week ending Dec. 20 than during any other week in the past decade.
+
+12-27 U.S. Sun: RUSSIAN forces launched a massive attack on Ukraine just a day before Donald Trump’s meeting with Volodymyr Zelensky to discuss peace plans. Explosions boomed across the capital Kyiv for hours as ballistic missiles and drones hit the city – killing at least one person and injuring 22 others.
+
+12-28 Daily Express: The president of Iran has declared his country is at “total war” with the US, Israel and Europe in the latest ratcheting up of tensions. Speaking to Iranian state media, Masoud Pezeshkian claimed the Western powers want to bring Iran “to its knees”.
+
+12-29 President Trump said in a radio interview that the United States had knocked out “a big facility” last week as part of his administration’s campaign against Venezuela, an apparent reference to an American attack on a drug trafficking site. American officials said that Mr. Trump was referring to a drug facility in Venezuela and that it was eliminated, but provided no details. Military officials said they had no information to share, and the Central Intelligence Agency declined to comment. The White House declined to comment.
+
+12-29 The Virginia man arrested this month on charges of placing two pipe bombs in Washington on the night before a pro-Trump mob stormed the Capitol on Jan. 6, 2021, has given a detailed confession, according to court papers released on Sunday night. In the public first hint at a motive in the case, the documents said that the man, Brian J. Cole Jr., felt he needed to “speak up” after he began to suspect that the 2020 election, in which President Trump was defeated, had been “tampered with.”
+
+12-30 The CIA carried out a drone strike earlier this month on a port facility on the coast of Venezuela, sources familiar with the matter told CNN, marking the first known US attack on a target inside that country. The drone strike, the details of which have not been previously reported, targeted a remote dock on the Venezuelan coast that the US government believed was being used by the Venezuelan gang Tren de Aragua to store drugs and move them onto boats for shipping, the sources said. No one was present at the facility at the time it was struck, so there were no casualties, according to the sources.
+
+12-30 Minnesota Governor Tim Walz is facing calls to resign amid mounting allegations of fraud in federal programs in the state. Republican lawmakers at the state and federal level have called on the governor, who was the Democratic Party's vice presidential nominee in 2024, to resign. Prosecutors have alleged that fraud schemes targeting Minnesota-run programs may cost the state billions of dollars. Many of the defendants charged so far have been Somali Americans, sparking cultural and political tensions. Some members of the community have warned that they have been stigmatized as a result of the ongoing cases.
+
+12-31 Several people attacked and damaged a provincial governor's office in southern Iran on Wednesday, according to authorities quoted by the justice ministry's Mizan agency, after days of protests over the economy. "A portion of the provincial governors' office door and its glass were destroyed in an attack by a number of people," said Hamed Ostovar, the head of Fasa city's judiciary, as quoted by Mizan, without specifying how the attack was carried out.

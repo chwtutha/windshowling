@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lighthouses on Winds Howling</title>
+    <link>http://localhost:1313/tags/lighthouses/</link>
+    <description>Recent content in Lighthouses on Winds Howling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Dec 2025 14:57:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lighthouses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grand Traverse Lighthouse</title>
+      <link>http://localhost:1313/posts/grand-traverse-lighthouse/</link>
+      <pubDate>Sun, 14 Dec 2025 14:57:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/grand-traverse-lighthouse/</guid>
+      <description>&lt;p&gt;I recently paid my second visit to Grand Traverse Lighthouse on a chilly, overcast day in November. Unlike our first time here over the summer, the tower was climbable and the gift shop was open for business, so I was able to see much more of what the property has to offer. Here’s a rundown of the experience.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;  &lt;p style=&#34;text-align: center;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/grand-traverse-lighthouse/grand-traverse-lighthouse-and-sign-with-historical-dates.jpg&#34; alt=&#34;&amp;amp;lsquo;Grand Traverse Lighthouse with sign displaying significant dates in its history.&amp;amp;rsquo;&#34; style=&#34;max-width: 100%;&#34;&gt;&#xA;  &lt;/p&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,3 +2,11 @@ baseURL = 'https://windshowlingblog.netlify.app/'
 languageCode = 'en-us'
 title = 'Winds Howling'
 theme = 'hugo-bearblog'
+
+[params]
+hideMadeWithLine = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

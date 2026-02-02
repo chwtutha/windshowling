@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michigan on Winds Howling</title>
+    <link>http://localhost:1313/tags/michigan/</link>
+    <description>Recent content in Michigan on Winds Howling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jan 2026 15:51:45 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/michigan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking on the dead mall</title>
+      <link>http://localhost:1313/posts/lakeside-checkin/</link>
+      <pubDate>Tue, 27 Jan 2026 15:51:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/lakeside-checkin/</guid>
+      <description>&lt;p&gt;I live right next to a big mall that closed a couple years ago: Lakeside Mall in Sterling Heights, Michigan. They have &lt;a href=&#34;https://www.sterlingheights.gov/2069/Lakeside-City-Center&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flashy plans&lt;/a&gt; to demolish it and erect a pedestrian-friendly, mixed-used utopia off one of the busiest highways in suburban Detroit. It could be a cool thing, or it could be another embarrassing attempt to inject &amp;ldquo;Main Street&amp;rdquo; into the car-centric sprawl. It&amp;rsquo;s hard to tell. After two years of hearing about it, nothing seems to be happening. I went over on my lunch break to monitor the situation.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;  &lt;figure style=&#34;text-align: center; margin: 2rem auto;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/lakeside-checkin/lakeside-mall-snow.jpg&#34; alt=&#34;&amp;amp;lsquo;Snow from a winter storm is left to blanket the front entrance of Lakeside Mall, closed in 2024.&amp;amp;rsquo;&#34; style=&#34;max-width: 100%;&#34;&gt;&#xA;    &lt;figcaption&gt;Snow from a winter storm is left to blanket the front entrance of Lakeside Mall, closed in 2024.&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grand Traverse Lighthouse</title>
+      <link>http://localhost:1313/posts/grand-traverse-lighthouse/</link>
+      <pubDate>Sun, 14 Dec 2025 14:57:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/grand-traverse-lighthouse/</guid>
+      <description>&lt;p&gt;I recently paid my second visit to Grand Traverse Lighthouse on a chilly, overcast day in November. Unlike our first time here over the summer, the tower was climbable and the gift shop was open for business, so I was able to see much more of what the property has to offer. Here’s a rundown of the experience.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;  &lt;p style=&#34;text-align: center;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/grand-traverse-lighthouse/grand-traverse-lighthouse-and-sign-with-historical-dates.jpg&#34; alt=&#34;&amp;amp;lsquo;Grand Traverse Lighthouse with sign displaying significant dates in its history.&amp;amp;rsquo;&#34; style=&#34;max-width: 100%;&#34;&gt;&#xA;  &lt;/p&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
