@@ -1,5 +1,5 @@
-<!-- A partial to be overwritten by the user.
-  Simply place a custom_head.html into
-  your local /layouts/partials-directory -->
-
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+{{ with .Site.Params.favicon }}
+  <link rel="icon" href="{{ . | relURL }}">
+  <link rel="shortcut icon" href="{{ . | relURL }}">
+{{ end }}
