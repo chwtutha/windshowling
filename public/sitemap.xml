@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-31T17:07:57-05:00</lastmod>
+    <loc>http://localhost:1313/posts/silver-chair/</loc>
+    <lastmod>2026-02-03T17:39:46-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/books/</loc>
+    <lastmod>2026-02-03T17:39:46-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-31T17:07:57-05:00</lastmod>
+    <lastmod>2026-02-03T17:39:46-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-03T17:39:46-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-03T17:39:46-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/lakeside-checkin/</loc>
     <lastmod>2026-01-27T15:51:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/michigan/</loc>
-    <lastmod>2026-01-27T15:51:45-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-01-27T15:51:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/everything-2025/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2026-01-23T16:23:24-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/russian-revolution/</loc>
-    <lastmod>2025-12-29T12:13:12-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/books/</loc>
     <lastmod>2025-12-29T12:13:12-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/grand-traverse-lighthouse/</loc>

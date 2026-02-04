@@ -3,10 +3,21 @@ languageCode = 'en-us'
 title = 'Winds Howling'
 theme = 'hugo-bearblog'
 
+[params.author]
+  name = "Justin"
+
 [params]
 hideMadeWithLine = true
+favicon = "/favicon.ico"
+
+[minify]
+minifyOutput = false
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+      inline = true

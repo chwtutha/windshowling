@@ -1,14 +1,34 @@
-<!--<p style="text-align: center;">
-  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-width: 100%;">
-</p>-->
+<!-- Centers image and applies caption if provided, with optional width control-->
+{{ $width := "100%" }}
+{{ $caption := .Title }}
 
 {{ if .Title }}
-  <figure style="text-align: center; margin: 2rem auto;">
+  {{ if strings.Contains .Title "|" }}
+    {{ $parts := split .Title "|" }}
+    {{ $caption = trim (index $parts 0) " " }}
+    {{ $width = trim (index $parts 1) " "  }}
+  {{ end }}
+{{ end }}
+
+{{ if $caption }}
+  <figure style="text-align: center;">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-width: {{ $width }};">
+    <figcaption><i>{{ $caption }}</i></figcaption>
+  </figure>
+{{ else }}
+  <p style="text-align: center;">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-width: {{ $width }};">
+  </p>
+{{ end }}
+
+<!-- Centers image and applies caption if provided
+{{ if .Title }}
+  <figure style="text-align: center;">
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-width: 100%;">
-    <figcaption>{{ .Title }}</figcaption>
+    <figcaption><i>{{ .Title }}</i></figcaption>
   </figure>
 {{ else }}
   <p style="text-align: center;">
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-width: 100%;">
   </p>
-{{ end }}
+{{ end }}-->

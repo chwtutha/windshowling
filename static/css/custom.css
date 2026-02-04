@@ -31,15 +31,3 @@ figure {
   margin: 0;
   padding: 0;
 }
-
-figure img {
-  display: inline-block;
-  max-width: 100%;
-}
-
-body, main, article, .content, #content {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
