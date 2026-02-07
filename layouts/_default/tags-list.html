@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  
+  {{ $tags := .Site.Taxonomies.tags }}
+  {{ $tagList := slice }}
+  
+  {{ range $name, $taxonomy := $tags }}
+    {{ $mostRecent := (index (sort $taxonomy "Date" "desc") 0).Date }}
+    {{ $tagList = $tagList | append (dict "name" $name "count" $taxonomy.Count "page" $taxonomy.Page "latest" $mostRecent) }}
+  {{ end }}
+  
+  {{ $sorted := sort (sort $tagList "latest" "desc") "count" "desc" }}
+  
+  <ul>
+  {{ range $sorted }}
+    <li>
+      <a href="{{ .page.Permalink }}">{{ .name }}</a> ({{ .count }})
+    </li>
+  {{ end }}
+  </ul>
+</article>
+{{ end }}

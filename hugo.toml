@@ -3,6 +3,35 @@ languageCode = 'en-us'
 title = 'Winds Howling'
 theme = 'hugo-bearblog'
 
+# PAGE NAVIGATION
+# The weight parameter controls the order (lower numbers appear first). 
+# You can add more menu items by adding more [[menu.main]] sections.
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+url = "/archive/"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 4
+
+[[menu.main]]
+name = "RSS"
+url = "/index.xml"
+weight = 5
+
 [params.author]
   name = "Justin"
 

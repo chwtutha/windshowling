@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article>
+<h1>{{ .Title }}</h1>
+  {{ $posts := where site.RegularPages "Type" "blog" }}
+  {{ range $posts.GroupByDate "2006" "desc" }}
+<h2>{{ .Key }}</h2>
+<ul>
+    {{ range .Pages }}
+<li>
+  <span>{{ .Date.Format "01/02" }}</span> — 
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+</li>
+    {{ end }}
+</ul>
+  {{ end }}
+</article>
+{{ end }}

@@ -10,19 +10,6 @@
       <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
     {{ end }}
 </p>
-
-<!-- <p>
-  <i>
-    <time datetime='{{ .Date.Format "2006-01-02" }}'>
-      {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}  {{ range (.GetTerms "tags") }}
-  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
-  {{ end }}
-    </time>
-  </i>
-
-</p> -->
-
-
 {{ end }}{{ end }}
 <content>
   {{ .Content }}

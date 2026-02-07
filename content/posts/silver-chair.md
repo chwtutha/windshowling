@@ -4,7 +4,7 @@ date = 2026-02-03T17:39:46-05:00
 type = "blog"
 tags = ['books']
 +++
-I recently finished reading "The Chronicles of Narnia" by C.S. Lewis for the first time. Over the years I’ve heard about the series being some kind of Christian allegory. Christian overtones and occasionally outright references were pretty obvious from the outset, but I felt it really kick into gear in the fourth book, “The Silver Chair.”
+I recently finished reading *The Chronicles of Narnia* by C.S. Lewis for the first time. Over the years I’ve heard about the series being some kind of Christian allegory. Christian overtones and occasionally outright references were pretty obvious from the outset, but I felt it really kick into gear in the fourth book, “The Silver Chair.”
 
 The preceding books had splashes of detectable Christianity here and there: Aslan is like Jesus, the main kids are referred to as Daughters of Eve and Sons of Adam, etc. It was enough enrich the story with another layer of potential meaning and get me thinking, but not so much that it felt like it was the whole point. In "The Silver Chair," and really only in "The Silver Chair," the balance teetered.
 
